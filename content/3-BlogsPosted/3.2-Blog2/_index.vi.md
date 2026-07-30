@@ -5,27 +5,62 @@ weight: 1
 chapter: false
 pre: " <b> 3.2. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+# AMAZON DYNAMODB – DỊCH VỤ CƠ SỞ DỮ LIỆU NOSQL CỦA AWS DÀNH CHO ỨNG DỤNG HIỆN ĐẠI
 
-# SESSION POLICIES TRONG AMAZON EKS POD IDENTITY
-
-Amazon EKS Pod Identity vừa bổ sung tính năng session policies, cho phép bạn thu hẹp quyền IAM một cách linh hoạt và chính xác cho từng pod mà không cần tạo thêm nhiều IAM roles riêng biệt. Đây là bước tiến quan trọng giúp áp dụng nguyên tắc least privilege hiệu quả hơn trong môi trường Kubernetes quy mô lớn.
+Amazon DynamoDB là dịch vụ cơ sở dữ liệu **NoSQL** được quản lý hoàn toàn (Fully Managed) trên nền tảng AWS, được thiết kế để đáp ứng các ứng dụng hiện đại yêu cầu hiệu năng cao, khả năng mở rộng linh hoạt và độ trễ thấp. Thay vì quản lý máy chủ hay hạ tầng cơ sở dữ liệu, người dùng chỉ cần tập trung vào việc thiết kế dữ liệu và phát triển ứng dụng, trong khi AWS đảm nhiệm toàn bộ việc vận hành, bảo trì và mở rộng hệ thống.
 
 Các điểm chính cần nắm:
 
-* Session policy là một IAM policy inline được chỉ định khi tạo hoặc cập nhật Pod Identity association.
-* Quyền hiệu quả = intersection (giao) giữa permissions của IAM role và session policy → session policy chỉ có thể thu hẹp, không thể mở rộng quyền.
-* Giúp tránh tình trạng over-permissioning khi reuse chung một IAM role cho nhiều workloads có nhu cầu khác nhau.
-* Hỗ trợ cả same-account và cross-account (qua IAM role chaining).
-* Giảm đáng kể số lượng IAM roles cần quản lý, tránh chạm giới hạn quota IAM trong cluster lớn.
-* Cấu hình dễ dàng qua AWS Management Console, AWS CLI hoặc AWS SDK khi tạo association giữa Kubernetes ServiceAccount và IAM role.
+* Amazon DynamoDB là dịch vụ cơ sở dữ liệu **NoSQL Fully Managed**, giúp người dùng không cần quản lý máy chủ hay hạ tầng cơ sở dữ liệu.
+* Hỗ trợ hiệu năng cao với **Single-digit Millisecond Latency**, duy trì tốc độ phản hồi ổn định ngay cả khi hệ thống có hàng triệu người dùng.
+* Tự động mở rộng (Auto Scaling) theo lưu lượng truy cập mà không cần cấu hình hay nâng cấp hạ tầng thủ công.
+* Áp dụng mô hình **Pay-as-you-go**, chỉ thanh toán theo dung lượng lưu trữ và số lượng request thực tế, phù hợp cho cả học tập và triển khai thực tế.
+* Khuyến khích thiết kế dữ liệu dựa trên **Access Pattern**, tối ưu cho cách ứng dụng truy vấn dữ liệu thay vì sử dụng nhiều bảng và phép JOIN như cơ sở dữ liệu quan hệ.
+* Dễ dàng tích hợp với các dịch vụ AWS khác như **IAM**, **Amazon CloudWatch**, **AWS Backup**, **AWS Lambda** và nhiều dịch vụ Serverless khác.
+* Phù hợp để xây dựng các ứng dụng Web, Mobile, IoT, Gaming và Serverless yêu cầu khả năng mở rộng cao và độ sẵn sàng lớn.
 
-Tính năng này đặc biệt hữu ích khi bạn có nhiều ứng dụng chạy trên cùng một IAM role nhưng cần giới hạn quyền khác nhau (ví dụ: một pod chỉ đọc S3 bucket cụ thể, pod khác chỉ gọi một số API nhất định).
+DynamoDB đặc biệt phù hợp với các hệ thống có lưu lượng truy cập lớn, yêu cầu khả năng mở rộng tự động và độ trễ thấp, đồng thời giúp giảm đáng kể chi phí quản trị cơ sở dữ liệu so với các hệ quản trị truyền thống.
 
-...Hình ảnh...
 
-...Link...
+## Nguồn tham khảo
 
-...Hướng dẫn...
+- Workshop: https://000060.awsstudygroup.com/
+
+
+## Hướng dẫn thực hiện
+
+### Bước 1: Tạo bảng (Table)
+
+- Đăng nhập AWS Management Console.
+- Truy cập dịch vụ **Amazon DynamoDB**.
+- Chọn **Create Table**.
+- Cấu hình:
+  - Table Name.
+  - Partition Key.
+  - Sort Key (nếu cần).
+
+### Bước 2: Cấu hình bảng
+
+- Chọn chế độ Capacity phù hợp (On-demand hoặc Provisioned).
+- Thiết lập Auto Scaling (nếu sử dụng Provisioned).
+- Hoàn tất quá trình tạo Table.
+
+### Bước 3: Thao tác với dữ liệu
+
+- Thêm dữ liệu (Create Item).
+- Truy vấn dữ liệu (Query).
+- Cập nhật dữ liệu (Update Item).
+- Xóa dữ liệu (Delete Item).
+
+### Bước 4: Theo dõi và quản lý
+
+- Theo dõi hiệu năng bằng **Amazon CloudWatch**.
+- Phân quyền truy cập thông qua **AWS IAM**.
+- Thiết lập Backup để bảo vệ dữ liệu khi cần thiết.
+
+### Kết quả đạt được
+
+- Hiểu được mô hình hoạt động của cơ sở dữ liệu NoSQL trên AWS.
+- Biết cách tạo và quản lý bảng trong Amazon DynamoDB.
+- Nắm được tư duy thiết kế dữ liệu theo Access Pattern thay vì sử dụng JOIN như cơ sở dữ liệu quan hệ.
+- Hiểu được khả năng mở rộng tự động và hiệu năng cao của DynamoDB trong các ứng dụng hiện đại.

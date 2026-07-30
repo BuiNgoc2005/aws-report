@@ -55,7 +55,7 @@ The system is deployed using a multi-tier web application architecture on the AW
 
 Users access the application through the Internet and an Application Load Balancer. Incoming requests are forwarded to Amazon EC2 instances where business logic is processed. System data is stored in Amazon RDS for MySQL, while book images and uploaded files are stored in Amazon S3. Amazon CloudWatch monitors system performance, and AWS Backup performs scheduled data backups.
 
-![Library Management System AWS Architecture](/images/2-Proposal/library_management_aws_architecture.jpg)
+![Library Management System AWS Architecture](/images/2-Proposal/AWS.jpg)
 
 ### *AWS Services Used*
 

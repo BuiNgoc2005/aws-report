@@ -57,7 +57,7 @@ Hệ thống được triển khai theo kiến trúc Web Application nhiều t�
 
 Người dùng truy cập hệ thống thông qua Internet. Các yêu cầu được chuyển tới máy chủ ứng dụng **Amazon EC2**, nơi chạy ứng dụng **Django** trong môi trường **Docker**. Dữ liệu được lưu trữ trên **Amazon RDS PostgreSQL**, trong khi hình ảnh sách và các tệp đính kèm được lưu trên **Amazon S3**. **Amazon CloudWatch** giám sát hoạt động của hệ thống và hỗ trợ theo dõi log cũng như hiệu năng của máy chủ.
 
-![Library Management System AWS Architecture](/images/2-Proposal/library_management_aws_architecture.jpg)
+![Library Management System AWS Architecture](/images/2-Proposal/AWS.jpg)
 
 ### *Dịch vụ AWS sử dụng*
 
