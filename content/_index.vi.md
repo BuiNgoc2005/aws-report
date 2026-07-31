@@ -9,6 +9,8 @@ chapter: false
 ### Thông tin sinh viên:
 &emsp; **Họ và tên:** Bùi Võ Bảo Ngọc
 
+&emsp; **Mã số sinh viên:** 2352808
+
 &emsp; **Số điện thoại:** 0363345436
 
 &emsp; **Email:** ngoc.buivobao2005@hcmut.edu.vn

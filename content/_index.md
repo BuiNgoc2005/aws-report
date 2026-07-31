@@ -13,6 +13,8 @@ chapter: false
 ### Student Information:
 &emsp; **Full Name:** Bui Vo Bao Ngoc
 
+&emsp; **Student ID:** 2352808
+
 &emsp; **Phone Number:** 0363345436
 
 &emsp; **Email:** ngoc.buivobao2005@hcmut.edu.vn
