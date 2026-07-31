@@ -22,9 +22,6 @@ Các điểm chính cần nắm:
 DynamoDB đặc biệt phù hợp với các hệ thống có lưu lượng truy cập lớn, yêu cầu khả năng mở rộng tự động và độ trễ thấp, đồng thời giúp giảm đáng kể chi phí quản trị cơ sở dữ liệu so với các hệ quản trị truyền thống.
 
 
-## Nguồn tham khảo
-
-- Workshop: https://000060.awsstudygroup.com/
 
 
 ## Hướng dẫn thực hiện
@@ -64,3 +61,9 @@ DynamoDB đặc biệt phù hợp với các hệ thống có lưu lượng truy
 - Biết cách tạo và quản lý bảng trong Amazon DynamoDB.
 - Nắm được tư duy thiết kế dữ liệu theo Access Pattern thay vì sử dụng JOIN như cơ sở dữ liệu quan hệ.
 - Hiểu được khả năng mở rộng tự động và hiệu năng cao của DynamoDB trong các ứng dụng hiện đại.
+
+## Nguồn tham khảo
+
+![AWS Backup & Restore](/images/3-Blogs/blog3.jpg)
+
+- Workshop: https://000060.awsstudygroup.com/

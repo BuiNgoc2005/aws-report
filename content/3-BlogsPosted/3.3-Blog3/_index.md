@@ -21,11 +21,6 @@ The key concepts include:
 
 AWS KMS is particularly suitable for systems that require a high level of security, enabling organizations to centrally manage encryption keys, enforce access control, and protect data across multiple AWS services.
 
-## References
-
-- Workshop: https://000033.awsstudygroup.com/
-- Tutorial Video: https://youtu.be/SCZpW-3b5G0?si=fM551VA4uu49_EWJ
-- AWS Documentation: https://docs.aws.amazon.com/kms/
 
 ## Implementation Guide
 
@@ -66,3 +61,11 @@ AWS KMS is particularly suitable for systems that require a high level of securi
 - Learned how to configure Amazon S3 encryption using **AWS KMS**.
 - Understood the relationship between **AWS IAM**, **Amazon S3**, and **AWS KMS** in controlling access to encrypted data.
 - Learned how to use **AWS CloudTrail** to monitor and audit encryption key usage.
+
+## References
+
+![AWS Backup & Restore](/images/3-Blogs/blog2.jpg)
+
+- Workshop: https://000033.awsstudygroup.com/
+- Tutorial Video: https://youtu.be/SCZpW-3b5G0?si=fM551VA4uu49_EWJ
+- AWS Documentation: https://docs.aws.amazon.com/kms/

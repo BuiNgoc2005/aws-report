@@ -25,9 +25,7 @@ Giải pháp này đặc biệt phù hợp với các hệ thống yêu cầu t�
 
 
 
-## Nguồn tham khảo
 
-- Workshop: https://000133.awsstudygroup.com/
 
 ## Hướng dẫn thực hiện
 
@@ -71,3 +69,9 @@ Giải pháp này đặc biệt phù hợp với các hệ thống yêu cầu t�
 - Kiểm tra khả năng khôi phục dữ liệu sau mỗi lần sao lưu.
 - Giảm thiểu thao tác thủ công nhờ Infrastructure as Code.
 - Nâng cao khả năng bảo vệ dữ liệu và tối ưu chi phí vận hành.
+
+## Nguồn tham khảo
+
+![AWS Backup & Restore](/images/3-Blogs/blog1.png)
+- Workshop: https://000133.awsstudygroup.com/
+📌 Bài viết trên AWS Study Group: https://www.facebook.com/share/p/1EEHwMujCD/

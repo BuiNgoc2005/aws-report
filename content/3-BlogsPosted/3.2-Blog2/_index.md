@@ -23,9 +23,6 @@ The key concepts include:
 
 DynamoDB is particularly suitable for systems with heavy traffic, automatic scaling requirements, and low-latency workloads, while significantly reducing database administration effort compared to traditional database management systems.
 
-## References
-
-- Workshop: https://000060.awsstudygroup.com/
 
 ## Implementation Guide
 
@@ -64,3 +61,8 @@ DynamoDB is particularly suitable for systems with heavy traffic, automatic scal
 - Learned how to create and manage tables in Amazon DynamoDB.
 - Understood the concept of designing data models based on Access Patterns rather than using JOIN operations as in relational databases.
 - Learned about DynamoDB's automatic scaling capabilities and high-performance architecture for modern applications.
+## References
+
+![AWS Backup & Restore](/images/3-Blogs/blog3.jpg)
+- Workshop: https://000060.awsstudygroup.com/
+

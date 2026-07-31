@@ -22,9 +22,7 @@ The key concepts include:
 
 This solution is particularly well suited for systems requiring high availability, enabling organizations to automate backup operations, minimize the risk of data loss, and ensure rapid recovery in the event of system failures.
 
-## References
 
-- Workshop: https://000133.awsstudygroup.com/
 
 ## Implementation Guide
 
@@ -68,3 +66,11 @@ This solution is particularly well suited for systems requiring high availabilit
 - Verified data recovery capability after every backup operation.
 - Reduced manual operations through Infrastructure as Code.
 - Improved data protection while optimizing operational costs.
+
+## References
+
+
+![AWS Backup & Restore](/images/3-Blogs/blog1.png)
+- Workshop: https://000133.awsstudygroup.com/
+
+📌 **Article published by AWS Study Group:** https://www.facebook.com/share/p/1EEHwMujCD/
