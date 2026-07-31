@@ -28,6 +28,4 @@ Nội dung công việc của từng tuần được tóm tắt như sau:
 
 **Tuần 7:** [Khởi tạo dự án, xây dựng môi trường phát triển và triển khai các chức năng nền tảng](1.7-week7/)
 
-**Tuần 8:** [Hoàn thiện chức năng, tích hợp hệ thống và triển khai thử nghiệm trên AWS](1.8-week8/)
-
-**Tuần 9:** [Kiểm thử, tối ưu hệ thống, hoàn thiện tài liệu, demo và tổng kết thực tập](1.9-week9/)
+**Tuần 8:** [Hoàn thiện hệ thống Quản lý thư viện, triển khai trên AWS và tổng kết dự án](1.8-week8/)

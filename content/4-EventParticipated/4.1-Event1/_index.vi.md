@@ -6,120 +6,121 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
-# Bài thu hoạch “GenAI-powered App-DB Modernization workshop”
+# Bài thu hoạch “AWS: Enterprise Cloud Architectures and Industry Application”
 
 ### Mục Đích Của Sự Kiện
 
-- Chia sẻ best practices trong thiết kế ứng dụng hiện đại
-- Giới thiệu phương pháp DDD và event-driven architecture
-- Hướng dẫn lựa chọn compute services phù hợp
-- Giới thiệu công cụ AI hỗ trợ development lifecycle
+- Chia sẻ xu hướng phát triển của điện toán đám mây và nhu cầu nhân lực trong ngành.
+- Giới thiệu kiến trúc hệ thống và cách áp dụng Cloud trong doanh nghiệp.
+- Chia sẻ kinh nghiệm thực tế từ các chuyên gia AWS và đối tác.
+- Định hướng tư duy, kỹ năng và lộ trình phát triển nghề nghiệp cho sinh viên.
 
 ### Danh Sách Diễn Giả
 
-- **Jignesh Shah** - Director, Open Source Databases
-- **Erica Liu** - Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** - Assc. Specialist SA, Serverless Amazon Web Services
+- **Nguyễn Gia Hưng** - Amazon Web Services (AWS)
+- **Bành Cẩm Vĩnh** - Renova Cloud
+- **Như Trần** - Amazon Web Services (AWS)
+- **Khang Nguyễn** - Cloud Kinetics
 
 ### Nội Dung Nổi Bật
 
-#### Đưa ra các ảnh hưởng tiêu cực của kiến trúc ứng dụng cũ
+#### Xu hướng Cloud và cơ hội nghề nghiệp
 
-- Thời gian release sản phẩm lâu → Mất doanh thu/bỏ lỡ cơ hội
-- Hoạt động kém hiệu quả → Mất năng suất, tốn kém chi phí
-- Không tuân thủ các quy định về bảo mật → Mất an ninh, uy tín
+- Cloud Computing đang trở thành xu hướng **Cloud-first** trong quá trình chuyển đổi số.
+- AWS đầu tư mạnh vào thị trường Việt Nam thông qua phát triển hạ tầng và đào tạo nguồn nhân lực.
+- Doanh nghiệp đánh giá cao năng lực thực tế, khả năng học hỏi và xây dựng mạng lưới kết nối.
+- Công thức phát triển nghề nghiệp được chia sẻ:
+  - **Capability (Năng lực)**
+  - **Visibility (Sự hiện diện)**
+  - **Consistency (Sự kiên trì)**
 
-#### Chuyển đổi sang kiến trúc ứng dụng mới - Microservice Architecture
+#### Khác biệt giữa học tập và môi trường doanh nghiệp
 
-Chuyển đổi thành hệ thống modular – từng chức năng là một **dịch vụ độc lập** giao tiếp với nhau qua **sự kiện** với 3 trụ cột cốt lõi:
+- Dữ liệu trong doanh nghiệp thường phức tạp và thay đổi liên tục.
+- Kiến trúc dữ liệu cần tập trung vào các thành phần cốt lõi:
+  - Data Ingestion
+  - Data Processing
+  - Data Storage
+  - Data Governance
+  - Data Analytics
+- AI hỗ trợ lập trình và viết tài liệu nhưng không thay thế tư duy thiết kế hệ thống.
 
-- **Queue Management**: Xử lý tác vụ bất đồng bộ
-- **Caching Strategy:** Tối ưu performance
-- **Message Handling:** Giao tiếp linh hoạt giữa services
+#### Kỹ năng mềm và phát triển bản thân
 
-#### Domain-Driven Design (DDD)
+- Chủ động giao tiếp giúp tăng khả năng kết nối và tạo nhiều cơ hội nghề nghiệp.
+- Rèn luyện kỹ năng thuyết trình và vượt qua nỗi sợ bằng việc thực hành thường xuyên.
+- Kiên trì trước những lần thất bại và chủ động xây dựng các mối quan hệ chất lượng.
 
-- **Phương pháp 4 bước**: Xác định domain events → sắp xếp timeline → identify actors → xác định bounded contexts
-- **Case study bookstore**: Minh họa cách áp dụng DDD thực tế
-- **Context mapping**: 7 patterns tích hợp bounded contexts
+#### Mindset dành cho kỹ sư công nghệ
 
-#### Event-Driven Architecture
-
-- **3 patterns tích hợp**: Publish/Subscribe, Point-to-point, Streaming
-- **Lợi ích**: Loose coupling, scalability, resilience
-- **So sánh sync vs async**: Hiểu rõ trade-offs (sự đánh đổi)
-
-#### Compute Evolution
-
-- **Shared Responsibility Model**: Từ EC2 → ECS → Fargate → Lambda
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value
-- **Functions vs Containers**: Criteria lựa chọn phù hợp
-
-#### Amazon Q Developer
-
-- **SDLC automation**: Từ planning đến maintenance
-- **Code transformation**: Java upgrade, .NET modernization
-- **AWS Transform agents**: VMware, Mainframe, .NET migration
+- AI là công cụ hỗ trợ, không nên phụ thuộc hoàn toàn vào AI.
+- Kiến thức nền tảng như Networking, Operating System và Database vẫn giữ vai trò rất quan trọng.
+- Doanh nghiệp ưu tiên thái độ học hỏi và tinh thần cầu tiến bên cạnh năng lực chuyên môn.
+- Trong giai đoạn đầu sự nghiệp, nên tập trung tích lũy kinh nghiệm thay vì chỉ quan tâm đến mức lương.
 
 ### Những Gì Học Được
 
-#### Tư Duy Thiết Kế
+#### Định hướng nghề nghiệp
 
-- **Business-first approach**: Luôn bắt đầu từ business domain, không phải technology
-- **Ubiquitous language**: Importance của common vocabulary giữa business và tech teams
-- **Bounded contexts**: Cách identify và manage complexity trong large systems
+- Hiểu rõ hơn về xu hướng phát triển của Cloud Computing và nhu cầu tuyển dụng hiện nay.
+- Nhận thức được tầm quan trọng của việc xây dựng năng lực chuyên môn song song với mở rộng các mối quan hệ.
+- Biết cách chuẩn bị lộ trình học tập và phát triển bản thân phù hợp với ngành Cloud.
 
-#### Kiến Trúc Kỹ Thuật
+#### Kiến thức kỹ thuật
 
-- **Event storming technique**: Phương pháp thực tế để mô hình hóa quy trình kinh doanh
-- Sử dụng **Event-driven communication** thay vì synchronous calls
-- **Integration patterns**: Hiểu khi nào dùng sync, async, pub/sub, streaming
-- **Compute spectrum**: Criteria chọn từ VM → containers → serverless
+- Hiểu được cách doanh nghiệp xây dựng và vận hành các hệ thống trên nền tảng Cloud.
+- Biết vai trò của từng thành phần trong kiến trúc dữ liệu hiện đại.
+- Hiểu được cách AI hỗ trợ quá trình phát triển phần mềm nhưng vẫn cần tư duy phân tích và thiết kế của kỹ sư.
 
-#### Chiến Lược Hiện Đại Hóa
+#### Kỹ năng mềm
 
-- **Phased approach**: Không rush, phải có roadmap rõ ràng
-- **7Rs framework**: Nhiều con đường khác nhau tùy thuộc vào đặc điểm của mỗi ứng dụng
-- **ROI measurement**: Cost reduction + business agility
+- Tăng cường kỹ năng giao tiếp và xây dựng hình ảnh cá nhân trong môi trường làm việc.
+- Học cách vượt qua nỗi sợ, chủ động nắm bắt cơ hội và kiên trì theo đuổi mục tiêu.
+- Nhận thức được tầm quan trọng của thái độ làm việc và tinh thần học hỏi liên tục.
 
 ### Ứng Dụng Vào Công Việc
 
-- **Áp dụng DDD** cho project hiện tại: Event storming sessions với business team
-- **Refactor microservices**: Sử dụng bounded contexts để identify service boundaries
-- **Implement event-driven patterns**: Thay thế một số sync calls bằng async messaging
-- **Serverless adoption**: Pilot AWS Lambda cho một số use cases phù hợp
-- **Try Amazon Q Developer**: Integrate vào development workflow để boost productivity
+- Tiếp tục xây dựng nền tảng kiến thức về AWS và các công nghệ Cloud.
+- Chủ động tham gia các cộng đồng công nghệ để mở rộng mạng lưới kết nối.
+- Tận dụng AI như một công cụ hỗ trợ học tập, viết tài liệu và lập trình thay vì phụ thuộc hoàn toàn.
+- Áp dụng tư duy thiết kế hệ thống dựa trên kiến thức nền tảng trước khi lựa chọn công nghệ.
+- Rèn luyện thêm kỹ năng giao tiếp, thuyết trình và làm việc nhóm trong các dự án.
 
-### Trải nghiệm trong event
+### Trải nghiệm trong sự kiện
 
-Tham gia workshop **“GenAI-powered App-DB Modernization”** là một trải nghiệm rất bổ ích, giúp tôi có cái nhìn toàn diện về cách hiện đại hóa ứng dụng và cơ sở dữ liệu bằng các phương pháp và công cụ hiện đại. Một số trải nghiệm nổi bật:
+Tham gia buổi chia sẻ **"AWS: Enterprise Cloud Architectures and Industry Application"** giúp mình có cơ hội tiếp cận những góc nhìn thực tế từ các chuyên gia đang làm việc tại AWS và các đối tác công nghệ. Đây không chỉ là buổi chia sẻ về kỹ thuật mà còn mang đến nhiều kinh nghiệm quý báu về định hướng nghề nghiệp và kỹ năng làm việc trong môi trường doanh nghiệp.
 
-#### Học hỏi từ các diễn giả có chuyên môn cao
-- Các diễn giả đến từ AWS và các tổ chức công nghệ lớn đã chia sẻ **best practices** trong thiết kế ứng dụng hiện đại.
-- Qua các case study thực tế, tôi hiểu rõ hơn cách áp dụng **Domain-Driven Design (DDD)** và **Event-Driven Architecture** vào các project lớn.
+#### Học hỏi từ các chuyên gia
 
-#### Trải nghiệm kỹ thuật thực tế
-- Tham gia các phiên trình bày về **event storming** giúp tôi hình dung cách **mô hình hóa quy trình kinh doanh** thành các domain events.
-- Học cách **phân tách microservices** và xác định **bounded contexts** để quản lý sự phức tạp của hệ thống lớn.
-- Hiểu rõ trade-offs giữa **synchronous và asynchronous communication** cũng như các pattern tích hợp như **pub/sub, point-to-point, streaming**.
+- Các diễn giả chia sẻ kinh nghiệm thực tế về Cloud Computing, kiến trúc hệ thống và xu hướng chuyển đổi số.
+- Hiểu rõ hơn những yêu cầu của doanh nghiệp đối với sinh viên và kỹ sư mới ra trường.
+- Có thêm định hướng trong việc xây dựng lộ trình học tập và phát triển nghề nghiệp.
 
-#### Ứng dụng công cụ hiện đại
-- Trực tiếp tìm hiểu về **Amazon Q Developer**, công cụ AI hỗ trợ SDLC từ lập kế hoạch đến maintenance.
-- Học cách **tự động hóa code transformation** và pilot serverless với **AWS Lambda**, từ đó nâng cao năng suất phát triển.
+#### Tiếp cận kinh nghiệm thực tế
 
-#### Kết nối và trao đổi
-- Workshop tạo cơ hội trao đổi trực tiếp với các chuyên gia, đồng nghiệp và team business, giúp **nâng cao ngôn ngữ chung (ubiquitous language)** giữa business và tech.
-- Qua các ví dụ thực tế, tôi nhận ra tầm quan trọng của **business-first approach**, luôn bắt đầu từ nhu cầu kinh doanh thay vì chỉ tập trung vào công nghệ.
+- Hiểu được sự khác biệt giữa kiến thức học ở trường và môi trường làm việc thực tế.
+- Nhận thức được vai trò của kiến thức nền tảng khi xây dựng các hệ thống Cloud.
+- Hiểu cách doanh nghiệp áp dụng AI như một công cụ hỗ trợ thay vì thay thế con người.
+
+#### Phát triển tư duy nghề nghiệp
+
+- Học được cách xây dựng hình ảnh cá nhân thông qua năng lực, sự hiện diện và tính kiên trì.
+- Nhận ra tầm quan trọng của việc giao tiếp, kết nối cộng đồng và học hỏi liên tục.
+- Có thêm động lực để chủ động tìm kiếm cơ hội và phát triển bản thân trong lĩnh vực Cloud.
 
 #### Bài học rút ra
-- Việc áp dụng DDD và event-driven patterns giúp giảm **coupling**, tăng **scalability** và **resilience** cho hệ thống.
-- Chiến lược hiện đại hóa cần **phased approach** và đo lường **ROI**, không nên vội vàng chuyển đổi toàn bộ hệ thống.
-- Các công cụ AI như Amazon Q Developer có thể **boost productivity** nếu được tích hợp vào workflow phát triển hiện tại.
+
+- Kiến thức nền tảng luôn là yếu tố quan trọng nhất để phát triển lâu dài.
+- AI giúp nâng cao năng suất nhưng không thể thay thế tư duy của kỹ sư.
+- Thái độ học hỏi, tinh thần chủ động và sự kiên trì là những yếu tố quyết định sự phát triển nghề nghiệp.
+- Việc tham gia cộng đồng và mở rộng mạng lưới quan hệ sẽ mang lại nhiều cơ hội trong tương lai.
 
 #### Một số hình ảnh khi tham gia sự kiện
-* Thêm các hình ảnh của các bạn tại đây
-> Tổng thể, sự kiện không chỉ cung cấp kiến thức kỹ thuật mà còn giúp tôi thay đổi cách tư duy về thiết kế ứng dụng, hiện đại hóa hệ thống và phối hợp hiệu quả hơn giữa các team.
+
+![Event Picure](/images/4-Event/event1_1.jpg)
+![Event Picure](/images/4-Event/event1_2.jpg)
+![Event Picure](/images/4-Event/event1_3.jpg)
+![Event Picure](/images/4-Event/event1_4.jpg)
+
+
+> Tổng thể, buổi chia sẻ không chỉ giúp mình hiểu rõ hơn về kiến trúc hệ thống trên nền tảng AWS mà còn mang đến nhiều bài học về tư duy nghề nghiệp, kỹ năng mềm và định hướng phát triển bản thân trong lĩnh vực Cloud Computing.

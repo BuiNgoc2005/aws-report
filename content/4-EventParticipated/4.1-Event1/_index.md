@@ -6,121 +6,120 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
-
-# Summary Report: “GenAI-powered App-DB Modernization workshop”
+# Reflection Report: "AWS: Enterprise Cloud Architectures and Industry Application"
 
 ### Event Objectives
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+- Share the latest trends in cloud computing and the industry's demand for cloud professionals.
+- Introduce enterprise system architectures and the application of cloud technologies in businesses.
+- Share practical experiences from AWS experts and technology partners.
+- Provide career guidance, professional mindset, and essential skills for students pursuing careers in cloud computing.
 
 ### Speakers
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+- **Gia Hung Nguyen** – Amazon Web Services (AWS)
+- **Cam Vinh Banh** – Renova Cloud
+- **Nhu Tran** – Amazon Web Services (AWS)
+- **Khang Nguyen** – Cloud Kinetics
 
 ### Key Highlights
 
-#### Identifying the drawbacks of legacy application architecture
+#### Cloud Trends and Career Opportunities
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+- Cloud Computing is becoming a **Cloud-first** strategy in digital transformation.
+- AWS is making significant investments in Vietnam through infrastructure expansion and workforce development.
+- Employers highly value practical skills, continuous learning, and professional networking.
+- A career development formula shared during the session:
+  - **Capability**
+  - **Visibility**
+  - **Consistency**
 
-#### Transitioning to modern application architecture – Microservices
+#### The Difference Between Academic Learning and Industry
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+- Enterprise data is often complex and continuously evolving.
+- Modern data architectures focus on several core components:
+  - Data Ingestion
+  - Data Processing
+  - Data Storage
+  - Data Governance
+  - Data Analytics
+- AI can assist with programming and documentation, but it cannot replace system design thinking.
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
+#### Soft Skills and Personal Development
 
-#### Domain-Driven Design (DDD)
+- Proactive communication helps build professional relationships and creates more career opportunities.
+- Presentation skills can be improved through continuous practice and overcoming the fear of public speaking.
+- Persistence after setbacks and actively building meaningful professional relationships are essential for long-term success.
 
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
+#### Mindset for Technology Engineers
 
-#### Event-Driven Architecture
+- AI should be viewed as a supporting tool rather than something to depend on entirely.
+- Fundamental knowledge such as Networking, Operating Systems, and Databases remains critically important.
+- Employers value a positive learning attitude and continuous self-improvement alongside technical expertise.
+- During the early stages of a career, gaining practical experience is often more valuable than focusing solely on salary.
 
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
+### What I Learned
 
-#### Compute Evolution
+#### Career Development
 
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
+- Gained a better understanding of Cloud Computing trends and the current demand for cloud professionals.
+- Recognized the importance of developing technical expertise while simultaneously expanding professional networks.
+- Learned how to build an effective learning roadmap and career development plan in the cloud computing field.
 
-#### Amazon Q Developer
+#### Technical Knowledge
 
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
+- Understood how enterprises design and operate cloud-based systems.
+- Learned the role of each component within modern data architectures.
+- Recognized how AI supports software development while understanding that analytical thinking and system design remain essential engineering responsibilities.
 
-### Key Takeaways
+#### Soft Skills
 
-#### Design Mindset
+- Improved my understanding of effective communication and personal branding in a professional environment.
+- Learned the importance of overcoming fear, proactively seeking opportunities, and remaining persistent in pursuing long-term goals.
+- Recognized that professional attitude and continuous learning are as important as technical competence.
 
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
+### Applying the Knowledge to My Work
 
-#### Technical Architecture
+- Continue strengthening my knowledge of AWS and cloud technologies.
+- Actively participate in technology communities to expand my professional network.
+- Use AI as a tool to support learning, documentation, and software development instead of relying on it completely.
+- Apply system design principles based on strong foundational knowledge before selecting technologies.
+- Continue improving my communication, presentation, and teamwork skills through practical projects.
 
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
+### My Experience at the Event
 
-#### Modernization Strategy
+Attending the **"AWS: Enterprise Cloud Architectures and Industry Application"** seminar gave me the opportunity to gain practical insights from experts working at AWS and its technology partners. The event was much more than a technical seminar—it also provided valuable guidance on career development and professional skills required in enterprise environments.
 
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
+#### Learning from Industry Experts
 
-### Applying to Work
+- The speakers shared practical experiences in Cloud Computing, enterprise architecture, and digital transformation.
+- I gained a clearer understanding of what companies expect from students and entry-level cloud engineers.
+- The session helped me build a clearer vision for my learning path and long-term career development.
 
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
+#### Exposure to Real-world Experience
 
-### Event Experience
+- I better understood the differences between academic knowledge and real-world industry practices.
+- I realized the importance of strong foundational knowledge when designing cloud-based systems.
+- I learned how organizations use AI as a productivity tool rather than as a replacement for human expertise.
 
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
+#### Developing a Professional Mindset
 
-#### Learning from highly skilled speakers
-- Experts from AWS and major tech organizations shared **best practices** in modern application design.  
-- Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
+- I learned how to build a professional reputation through **Capability, Visibility, and Consistency**.
+- I recognized the importance of communication, community engagement, and lifelong learning.
+- The event motivated me to proactively seek new opportunities and continue developing my skills in cloud computing.
 
-#### Hands-on technical exposure
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
+#### Key Takeaways
 
-#### Leveraging modern tools
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
+- Strong foundational knowledge remains the most important factor for long-term professional growth.
+- AI enhances productivity but cannot replace an engineer's critical thinking and decision-making abilities.
+- A positive learning attitude, initiative, and persistence are essential qualities for career success.
+- Participating in professional communities and expanding one's network creates valuable future opportunities.
 
-#### Networking and discussions
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
+#### Event Photos
 
-#### Lessons learned
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
+![Event Picure](/images/4-Event/event1_1.jpg)
+![Event Picure](/images/4-Event/event1_2.jpg)
+![Event Picure](/images/4-Event/event1_3.jpg)
+![Event Picure](/images/4-Event/event1_4.jpg)
 
-#### Some event photos
-*Add your event photos here*  
-
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
+> Overall, the seminar not only deepened my understanding of enterprise system architectures on AWS but also provided valuable insights into career development, professional mindset, soft skills, and personal growth within the field of Cloud Computing.

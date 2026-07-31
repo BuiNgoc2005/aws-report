@@ -9,13 +9,13 @@ pre: " <b> 4. </b> "
 During my internship, I participated in two events. Each event was a memorable experience that provided valuable knowledge, meaningful learning opportunities, wonderful gifts, and unforgettable moments.
 
 ### [Event 1](4.1-Event1/)
-&emsp;**Event Name:**
+&emsp;**Event Name:** AWS Study Tour: Enterprise Cloud Architectures and Industry Application
 
-&emsp;**Time:** 09:00, 13/08/2026
+&emsp;**Time:** 09:00, 04/07/2026
 
 &emsp;**Location:** 26th Floor, Bitexco Financial Tower, No. 02 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City
 
-&emsp;**Role:** Participant
+&emsp;**Role:** Online Participant 
 
 ### [Event 2](4.2-Event2/)
 &emsp;**Event Name:** FCAJ - AGENTIC AI BUILD WEEK
