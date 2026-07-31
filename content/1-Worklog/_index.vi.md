@@ -28,4 +28,4 @@ Nội dung công việc của từng tuần được tóm tắt như sau:
 
 **Tuần 7:** [Triển khai hệ thống trên AWS, tích hợp Backend–Frontend, kiểm thử và tối ưu hệ thống](1.7-week7/)
 
-**Tuần 8:** [Kiểm thử tổng thể, hoàn thiện tài liệu, chuẩn bị demo và tổng kết dự án](1.8-week8/)
+**Tuần 8:** [Tổng kết dự án](1.8-week8/)
