@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Reflection on the "AWS Knowledge Challenge"
+# Summary Report: "AWS Knowledge Challenge"
 
 ### Event Objectives
 

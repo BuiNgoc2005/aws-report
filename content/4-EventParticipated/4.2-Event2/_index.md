@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# Reflection Report: "FCAJ - Agentic AI Build Week"
+# Summary Report: "FCAJ - Agentic AI Build Week"
 
 ### Event Objectives
 

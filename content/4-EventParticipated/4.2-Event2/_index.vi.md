@@ -7,7 +7,7 @@ pre: " <b> 4.2. </b> "
 ---
 
 
-# Bài thu hoạch “FCAJ - Agentic AI Build Week”
+# Bài thu hoạch: “FCAJ - Agentic AI Build Week”
 
 ### Mục Đích Của Sự Kiện
 
