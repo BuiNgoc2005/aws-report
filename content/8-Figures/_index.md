@@ -23,7 +23,7 @@ The Use Case Diagram illustrates the actors and the primary functionalities of t
 
 The Entity Relationship Diagram (ERD) illustrates the database structure of the system, including the database tables and the relationships between them. It serves as the foundation for implementing the PostgreSQL database.
 
-![Entity Relationship Diagram](/images/8-Figures/ERD_diagram.png)
+![Entity Relationship Diagram](/images/8-Figures/ERD_diagram.jpg)
 
 > **Figure 2.** Entity Relationship Diagram (ERD) of the system.
 

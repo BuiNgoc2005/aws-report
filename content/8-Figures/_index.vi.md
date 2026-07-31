@@ -22,7 +22,7 @@ Use Case Diagram mô tả các tác nhân (Actors) và các chức năng chính 
 
 Entity Relationship Diagram (ERD) mô tả cấu trúc cơ sở dữ liệu của hệ thống, bao gồm các bảng dữ liệu và mối quan hệ giữa chúng. Đây là cơ sở để triển khai cơ sở dữ liệu PostgreSQL.
 
-![Entity Relationship Diagram](/images/8-Figures/ERD_diagram.jqg)
+![Entity Relationship Diagram](/images/8-Figures/ERD_diagram.jpg)
 
 > **Hình 2.** Entity Relationship Diagram (ERD) của hệ thống.
 
