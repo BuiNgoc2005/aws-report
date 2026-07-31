@@ -20,7 +20,7 @@ Nội dung công việc của từng tuần được tóm tắt như sau:
 
 **Tuần 3:** [Học Module 03, khởi tạo dự án, thiết lập môi trường phát triển và phân tích yêu cầu hệ thống](1.3-week3/)
 
-**Tuần 4:** [Học Module 04, hoàn thiện thiết kế hệ thống, xây dựng Use Case Diagram, ERD và phát triển các chức năng nền tảng](1.4-week4/)
+**Tuần 4:** [Học Module 04, hoàn thiện thiết kế hệ thống, và phát triển các chức năng nền tảng](1.4-week4/)
 
 **Tuần 5:** [Học Module 05, phát triển các chức năng nghiệp vụ, xây dựng RESTful API và phối hợp tích hợp Frontend](1.5-week5/)
 

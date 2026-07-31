@@ -18,7 +18,7 @@ The work completed each week is summarized as follows:
 
 **Week 3:** [Module 03, project initialization, development environment setup, and system requirements analysis](1.3-week3/)
 
-**Week 4:** [Module 04, completing the system design, creating the Use Case Diagram and Entity Relationship Diagram (ERD), and developing the core system functionalities](1.4-week4/)
+**Week 4:** [Module 04, completing the system design and developing the core system functionalities](1.4-week4/)
 
 **Week 5:** [Module 05, implementing core business features, developing RESTful APIs, and collaborating with the frontend team](1.5-week5/)
 

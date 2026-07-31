@@ -11,13 +11,13 @@ pre: " <b> 4. </b> "
 Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là nhứng món quà và những khoảnh khắc rất tuyệt vời.
 
 ### [Event 1](4.1-Event1/)
-&emsp;**Tên sự kiện:** AWS Study Tour: Enterprise Cloud Architectures and Industry Application
+&emsp;**Tên sự kiện:** Event Game Day - 8 đội tranh hùng
 
-&emsp;**Thời gian:** 09:00 ngày 04/07/2026
+&emsp;**Thời gian:** 09:00 ngày 20/06/2026
 
 &emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
 
-&emsp;**Vai trò trong sự kiện:** Người tham dự online
+&emsp;**Vai trò trong sự kiện:** Người tham dự
 
 
 
