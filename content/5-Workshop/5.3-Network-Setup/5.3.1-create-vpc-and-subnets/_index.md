@@ -17,7 +17,7 @@ pre : " <b> 5.3.1 </b> "
    - **IPv6 CIDR block**: No IPv6 CIDR block
    - **Tenancy**: Default
 
-![create-vpc](/images/5-Workshop/5.3-Network-setup/5.3.1-create-vpc-and-subnets/create-vpc.png)
+![create-vpc](/images/5-Workshop/5.3-Network-setup/5.3.1-create-vpc-and-subnets/create-vpc.jpg)
 
 {{% notice note %}}
 The CIDR range `10.0.0.0/16` allows up to 65,536 IP addresses in the VPC — enough to be split into multiple smaller subnets for public and private use.
