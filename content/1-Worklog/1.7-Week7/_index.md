@@ -8,37 +8,31 @@ pre: " <b> 1.7. </b> "
 
 ### Week 7 Objectives:
 
-* Begin the implementation of the Library Management Website project.
-* Set up the development environment and project infrastructure.
-* Develop the core backend functionalities.
-* Support frontend integration and collaborate with the frontend team throughout the development process.
+* Collaborate with the team to deploy the Library Management System on AWS.
+* Verify the backend functionality after deployment.
+* Complete the integration between the backend and frontend in the cloud environment.
+* Optimize the system and prepare for the final evaluation phase.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Initialize the GitHub repository <br>&emsp;+ Set up the backend project structure <br>&emsp;+ Establish the Git Flow workflow and assign team tasks <br> - Configure Docker, Docker Compose, and the PostgreSQL database | 20/07/2026 | 20/07/2026 | Team Discussion |
-| 3 | - Build the database structure <br>&emsp;+ Design the data models <br>&emsp;+ Perform database migrations <br>&emsp;+ Resolve issues related to image data and the CSV import script | 21/07/2026 | 21/07/2026 | Team Discussion |
-| 4 | - Develop the Book Management APIs <br>&emsp;+ Book <br>&emsp;+ Category <br>&emsp;+ Publisher <br> - Support the frontend team with testing and data integration | 22/07/2026 | 22/07/2026 | Team Discussion |
-| 5 | - Develop the User Management and Fine Management modules <br>&emsp;+ Authentication <br>&emsp;+ Reader <br>&emsp;+ Fine Management API <br> - Assist the frontend team in integrating the fine update functionality | 23/07/2026 | 23/07/2026 | Team Discussion |
-| 6 | - Perform integration testing between the backend and frontend <br> - Fix issues identified during integration <br> - Participate in the Sprint Review and finalize the development plan for the next sprint | 24/07/2026 | 24/07/2026 | Team Discussion |
+| 2 | - Collaborate with the team to deploy the system on AWS <br>&emsp;+ Prepare Amazon EC2 <br>&emsp;+ Configure Docker and Docker Compose <br>&emsp;+ Deploy the backend and PostgreSQL to the testing environment | 20/07/2026 | 20/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 3 | - Verify the backend after deployment <br>&emsp;+ Test the database connection <br>&emsp;+ Verify REST APIs <br>&emsp;+ Resolve deployment and configuration issues | 21/07/2026 | 21/07/2026 | Team Discussion |
+| 4 | - Integrate the backend with the frontend on AWS <br>&emsp;+ Verify data flow <br>&emsp;+ Test user authentication <br>&emsp;+ Assist in resolving integration issues | 22/07/2026 | 22/07/2026 | Team Discussion |
+| 5 | - Perform post-deployment system testing <br>&emsp;+ Test core business functions <br>&emsp;+ Optimize PostgreSQL queries <br>&emsp;+ Improve API performance | 23/07/2026 | 23/07/2026 | Team Discussion |
+| 6 | - Summarize remaining issues <br>&emsp;+ Finalize the backend <br>&emsp;+ Prepare technical documentation <br>&emsp;+ Participate in Sprint Review and finalize the acceptance plan | 24/07/2026 | 24/07/2026 | Team Discussion |
 
 ### Week 7 Achievements:
 
-* Successfully initialized the project and configured the development environment using Docker.
+* Successfully deployed the Library Management System to AWS using **Amazon EC2** and **Docker**.
 
-* Successfully designed the database structure and implemented the system data models.
+* Successfully configured the backend and established a stable connection with the **PostgreSQL** database.
 
-* Completed the core APIs for:
-  * Book Management
-  * Category Management
-  * Publisher Management
-  * Reader Management
-  * User Authentication
-  * Fine Management
+* Successfully integrated the backend with the frontend in the cloud environment, ensuring reliable data exchange through RESTful APIs.
 
-* Supported the frontend team during data integration, including resolving issues related to image handling, database migrations, and CSV data import.
+* Completed comprehensive post-deployment testing of the system's core functionalities and resolved the issues identified during testing.
 
-* Completed the initial integration testing between the backend and frontend, ensuring that the core functionalities operated reliably.
+* Improved backend performance by optimizing database queries and enhancing API response efficiency.
 
-* Successfully completed the first development sprint and finalized the development plan for the next phase of the project.
+* Successfully completed the deployment sprint and prepared the deployment environment, technical documentation, and project artifacts for the final demonstration, documentation, and project evaluation in the following week.

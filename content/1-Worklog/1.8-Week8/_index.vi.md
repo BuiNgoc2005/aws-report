@@ -9,37 +9,37 @@ pre: " <b> 1.8. </b> "
 
 ### Mục tiêu tuần 8:
 
-* Phối hợp cùng nhóm triển khai hệ thống Quản lý thư viện trên AWS.
-* Hoàn thiện Backend và tích hợp với Frontend.
-* Kiểm thử, sửa lỗi và tối ưu hệ thống.
-* Hoàn thiện tài liệu, chuẩn bị demo và báo cáo thực tập.
+* Hoàn thiện hệ thống Quản lý thư viện trước khi nghiệm thu.
+* Kiểm thử tổng thể và tối ưu hiệu năng hệ thống.
+* Hoàn thiện tài liệu kỹ thuật, báo cáo và chuẩn bị demo.
+* Tổng kết quá trình thực tập và đánh giá kết quả dự án.
 
 ### Các công việc cần triển khai trong tuần này:
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Phối hợp triển khai hệ thống trên AWS <br>&emsp;+ Cấu hình Amazon EC2 <br>&emsp;+ Triển khai Docker và Docker Compose <br>&emsp;+ Kiểm tra môi trường và khả năng truy cập hệ thống | 27/07/2026 | 27/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Tích hợp Backend với Frontend sau khi triển khai <br>&emsp;+ Kiểm tra các API <br>&emsp;+ Kiểm tra kết nối PostgreSQL <br>&emsp;+ Khắc phục các lỗi phát sinh trong quá trình tích hợp | 28/07/2026 | 28/07/2026 | Team Discussion |
-| 4 | - Tham gia kiểm thử tích hợp hệ thống <br>&emsp;+ Kiểm thử các chức năng nghiệp vụ <br>&emsp;+ Kiểm tra luồng dữ liệu giữa Backend và Frontend <br>&emsp;+ Ghi nhận và sửa các lỗi phát sinh | 29/07/2026 | 29/07/2026 | Team Discussion |
-| 5 | - Tối ưu Backend sau kiểm thử <br>&emsp;+ Tối ưu truy vấn PostgreSQL <br>&emsp;+ Cải thiện hiệu năng API <br>&emsp;+ Kiểm tra lại khả năng vận hành của hệ thống | 30/07/2026 | 30/07/2026 | Team Discussion |
-| 6 | - Hoàn thiện tài liệu dự án <br>&emsp;+ README <br>&emsp;+ API Documentation <br>&emsp;+ Cập nhật Proposal và sơ đồ hệ thống <br> - Chuẩn bị demo và hoàn thiện báo cáo thực tập | 31/07/2026 | 31/07/2026 | Team Discussion |
+| 2 | - Kiểm thử tổng thể hệ thống <br>&emsp;+ Kiểm tra các chức năng nghiệp vụ <br>&emsp;+ Kiểm tra phân quyền người dùng <br>&emsp;+ Ghi nhận các lỗi còn tồn tại | 27/07/2026 | 27/07/2026 | Team Discussion |
+| 3 | - Khắc phục các lỗi phát sinh <br>&emsp;+ Tối ưu truy vấn PostgreSQL <br>&emsp;+ Cải thiện hiệu năng API <br>&emsp;+ Kiểm tra lại các chức năng sau khi sửa lỗi | 28/07/2026 | 28/07/2026 | Team Discussion |
+| 4 | - Hoàn thiện tài liệu dự án <br>&emsp;+ README <br>&emsp;+ API Documentation <br>&emsp;+ Proposal <br>&emsp;+ Cập nhật Use Case Diagram, ERD và System Architecture | 29/07/2026 | 29/07/2026 | Team Discussion |
+| 5 | - Chuẩn bị nội dung demo <br>&emsp;+ Kiểm tra môi trường triển khai <br>&emsp;+ Kiểm tra mã nguồn <br>&emsp;+ Hoàn thiện slide và video demo | 30/07/2026 | 30/07/2026 | Team Discussion |
+| 6 | - Hoàn thiện báo cáo thực tập <br>&emsp;+ Tổng kết kết quả đạt được <br>&emsp;+ Tiếp thu góp ý từ các thành viên <br>&emsp;+ Chuẩn bị nghiệm thu và bàn giao dự án | 31/07/2026 | 31/07/2026 | Meeting |
 
 ### Kết quả đạt được tuần 8:
 
-* Hoàn thành triển khai hệ thống trên AWS bằng Amazon EC2 kết hợp Docker.
+* Hoàn thành kiểm thử toàn bộ hệ thống và khắc phục các lỗi còn tồn tại.
 
-* Hoàn thành tích hợp Backend với Frontend và kiểm tra khả năng hoạt động của toàn bộ hệ thống.
+* Tối ưu hiệu năng của Backend và cải thiện khả năng xử lý của hệ thống.
 
-* Hoàn thiện kiểm thử các API và khắc phục các lỗi phát sinh trong quá trình tích hợp.
-
-* Tối ưu cơ sở dữ liệu PostgreSQL và cải thiện hiệu năng xử lý của Backend.
-
-* Hoàn thiện các tài liệu của dự án gồm:
+* Hoàn thiện đầy đủ các tài liệu của dự án:
   * Proposal
+  * Use Case Diagram
+  * Entity Relationship Diagram (ERD)
+  * System Architecture Diagram
   * API Documentation
   * README hướng dẫn cài đặt và sử dụng
-  * System Architecture
 
-* Chuẩn bị đầy đủ mã nguồn, tài liệu và nội dung demo phục vụ báo cáo thực tập.
+* Hoàn thiện môi trường triển khai và chuẩn bị đầy đủ mã nguồn, tài liệu, slide và video demo phục vụ báo cáo.
 
-* Hoàn thành báo cáo thực tập, tổng kết quá trình tham gia chương trình First Cloud AI Journey và tiếp thu các góp ý để hoàn thiện phiên bản cuối của dự án.
+* Hoàn thành báo cáo thực tập, tổng kết những kiến thức và kỹ năng đạt được trong quá trình tham gia chương trình **First Cloud AI Journey**.
+
+* Tiếp thu các góp ý trong buổi nghiệm thu và hoàn thiện phiên bản cuối của hệ thống Quản lý thư viện.

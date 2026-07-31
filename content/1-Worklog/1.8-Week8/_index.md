@@ -8,37 +8,37 @@ pre: " <b> 1.8. </b> "
 
 ### Week 8 Objectives:
 
-* Collaborate with the team to deploy the Library Management System on AWS.
-* Complete the backend implementation and integrate it with the frontend.
-* Test, debug, and optimize the system.
-* Finalize the project documentation, prepare the project demonstration, and complete the internship report.
+* Finalize the Library Management System before the final evaluation.
+* Perform comprehensive system testing and optimize overall performance.
+* Complete the technical documentation, internship report, and project demonstration materials.
+* Summarize the internship experience and evaluate the project outcomes.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Collaborate on deploying the system to AWS <br>&emsp;+ Configure Amazon EC2 <br>&emsp;+ Deploy Docker and Docker Compose <br>&emsp;+ Verify the deployment environment and system accessibility | 27/07/2026 | 27/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Integrate the backend with the frontend after deployment <br>&emsp;+ Test the APIs <br>&emsp;+ Verify the PostgreSQL connection <br>&emsp;+ Resolve issues identified during integration | 28/07/2026 | 28/07/2026 | Team Discussion |
-| 4 | - Participate in system integration testing <br>&emsp;+ Test the core business functionalities <br>&emsp;+ Verify the data flow between the backend and frontend <br>&emsp;+ Identify and fix issues discovered during testing | 29/07/2026 | 29/07/2026 | Team Discussion |
-| 5 | - Optimize the backend after testing <br>&emsp;+ Optimize PostgreSQL queries <br>&emsp;+ Improve API performance <br>&emsp;+ Verify the overall system stability | 30/07/2026 | 30/07/2026 | Team Discussion |
-| 6 | - Finalize the project documentation <br>&emsp;+ README <br>&emsp;+ API Documentation <br>&emsp;+ Update the Proposal and System Architecture Diagram <br> - Prepare the project demonstration and complete the internship report | 31/07/2026 | 31/07/2026 | Team Discussion |
+| 2 | - Perform comprehensive system testing <br>&emsp;+ Test all business functionalities <br>&emsp;+ Verify user authorization and access control <br>&emsp;+ Record any remaining issues | 27/07/2026 | 27/07/2026 | Team Discussion |
+| 3 | - Resolve identified issues <br>&emsp;+ Optimize PostgreSQL queries <br>&emsp;+ Improve API performance <br>&emsp;+ Re-test system functionalities after bug fixes | 28/07/2026 | 28/07/2026 | Team Discussion |
+| 4 | - Finalize project documentation <br>&emsp;+ README <br>&emsp;+ API Documentation <br>&emsp;+ Proposal <br>&emsp;+ Update the Use Case Diagram, ERD, and System Architecture Diagram | 29/07/2026 | 29/07/2026 | Team Discussion |
+| 5 | - Prepare the project demonstration <br>&emsp;+ Verify the deployment environment <br>&emsp;+ Review the source code <br>&emsp;+ Finalize the presentation slides and demonstration video | 30/07/2026 | 30/07/2026 | Team Discussion |
+| 6 | - Complete the internship report <br>&emsp;+ Summarize project achievements <br>&emsp;+ Incorporate feedback from team members <br>&emsp;+ Prepare for project evaluation and final handover | 31/07/2026 | 31/07/2026 | Meeting |
 
 ### Week 8 Achievements:
 
-* Successfully deployed the system on AWS using Amazon EC2 and Docker.
+* Successfully completed comprehensive testing of the entire system and resolved the remaining issues identified during the testing process.
 
-* Completed the integration of the backend and frontend and verified the functionality of the entire system.
+* Improved the backend performance by optimizing PostgreSQL queries and enhancing the overall responsiveness of the application.
 
-* Completed API testing and resolved the issues identified during the integration process.
-
-* Optimized the PostgreSQL database and improved the backend's processing performance.
-
-* Completed the project documentation, including:
+* Completed all project documentation, including:
   * Proposal
-  * API Documentation
-  * README with installation and usage instructions
+  * Use Case Diagram
+  * Entity Relationship Diagram (ERD)
   * System Architecture Diagram
+  * API Documentation
+  * README for installation and usage
 
-* Prepared the complete source code, documentation, and demonstration materials for the internship presentation.
+* Finalized the deployment environment and prepared the complete source code, documentation, presentation slides, and demonstration video for the final project presentation.
 
-* Completed the internship report, summarized the experience gained throughout the First Cloud AI Journey program, and incorporated feedback to finalize the final version of the project.
+* Completed the internship report, summarizing the knowledge, technical skills, and practical experience gained throughout the **First Cloud AI Journey** program.
+
+* Collected feedback during the project evaluation session and incorporated the necessary improvements into the final version of the Library Management System.

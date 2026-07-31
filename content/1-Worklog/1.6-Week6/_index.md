@@ -9,36 +9,43 @@ pre: " <b> 1.6. </b> "
 ### Week 6 Objectives:
 
 * Learn about AWS database services and complete the hands-on labs in Module 06.
-* Design the overall architecture of the Library Management System.
-* Develop the API design documentation and prepare the development environment.
-* Assign tasks to begin the implementation phase.
+* Complete the remaining backend functionalities of the Library Management System.
+* Integrate the backend with the frontend and test the core system features.
+* Prepare the deployment environment for hosting the system on AWS.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Study Module 06: Database Services <br>&emsp;+ Amazon RDS <br>&emsp;+ Amazon Aurora <br>&emsp;+ Amazon Redshift <br>&emsp;+ Amazon ElastiCache | 13/07/2026 | 13/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Complete Module 06 hands-on labs <br>&emsp;+ Create an Amazon RDS database <br>&emsp;+ Connect to the database <br>&emsp;+ Back up and restore data <br>&emsp;+ Practice basic SQL queries | 14/07/2026 | 14/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Practice Database Migration <br>&emsp;+ AWS Database Migration Service (AWS DMS) <br>&emsp;+ AWS Schema Conversion Tool (AWS SCT) <br> - Design the overall system architecture (System Architecture Diagram) | 15/07/2026 | 15/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 5 | - Design RESTful APIs <br>&emsp;+ User Authentication API <br>&emsp;+ Book Management API <br>&emsp;+ Reader Management API <br>&emsp;+ Book Borrowing and Returning API | 16/07/2026 | 16/07/2026 | Team Discussion |
-| 6 | - Discuss and finalize the technology stack <br>&emsp;+ Backend Framework <br>&emsp;+ Database <br>&emsp;+ Docker <br>&emsp;+ AWS Services <br> - Assign tasks to each team member and prepare for the first development sprint | 17/07/2026 | 17/07/2026 | Team Discussion |
+| 2 | - Study AWS Database Services <br>&emsp;+ Amazon RDS <br>&emsp;+ Amazon Aurora <br>&emsp;+ Amazon Redshift <br>&emsp;+ Amazon ElastiCache | 13/07/2026 | 13/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 3 | - Complete database management hands-on labs on AWS <br>&emsp;+ Launch an Amazon RDS instance <br>&emsp;+ Connect to the database <br>&emsp;+ Perform Backup and Restore <br>&emsp;+ Review basic SQL operations | 14/07/2026 | 14/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 4 | - Complete the remaining backend functionalities <br>&emsp;+ Borrowing and Returning Management <br>&emsp;+ Fine Management <br>&emsp;+ Finalize User Authorization and Role Management | 15/07/2026 | 15/07/2026 | Team Discussion |
+| 5 | - Integrate the backend with the frontend <br>&emsp;+ Verify API connectivity <br>&emsp;+ Test data flow between modules <br>&emsp;+ Assist the frontend team in resolving integration issues | 16/07/2026 | 16/07/2026 | Team Discussion |
+| 6 | - Perform system-wide testing <br>&emsp;+ Test all APIs <br>&emsp;+ Fix identified issues <br>&emsp;+ Prepare the deployment environment on AWS | 17/07/2026 | 17/07/2026 | Team Discussion |
 
 ### Week 6 Achievements:
 
-* Gained an understanding of AWS database services and their practical applications:
+* Gained an understanding of AWS database services:
   * Amazon RDS
   * Amazon Aurora
   * Amazon Redshift
   * Amazon ElastiCache
 
-* Completed the hands-on labs in Module 06:
-  * Deployed a database on Amazon RDS
-  * Performed database backup and restoration
-  * Practiced SQL queries
-  * Learned the database migration process using AWS DMS and AWS SCT
+* Successfully completed the AWS database management hands-on labs:
+  * Launched an Amazon RDS instance
+  * Connected to the database
+  * Performed database backup and restore
+  * Practiced basic SQL operations
 
-* Completed the overall architecture design of the Library Management System, identifying the major components and how they interact with one another.
+* Completed the backend functionalities of the Library Management System:
+  * Book Management
+  * Category Management
+  * Publisher Management
+  * Reader Management
+  * Borrowing and Returning Management
+  * Fine Management
+  * User Authentication and Authorization
 
-* Finalized the RESTful API design documentation for the core functionalities of the system.
+* Successfully integrated the backend with the frontend, ensuring stable API communication and accurate data synchronization.
 
-* Agreed on the project's technology stack and assigned responsibilities to each team member, preparing the team to begin the system development phase in the following week.
+* Completed testing of the system's core functionalities, resolved identified issues, and fully prepared the deployment environment for hosting the application on AWS in the following week.

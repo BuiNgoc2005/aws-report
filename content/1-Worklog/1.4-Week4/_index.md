@@ -8,35 +8,44 @@ pre: " <b> 1.4. </b> "
 
 ### Week 4 Objectives:
 
-* Learn about AWS Storage services and complete the hands-on labs in Module 04.
-* Analyze the functionalities of the Library Management System.
-* Design the Use Case Diagram and complete the system analysis documentation.
+* Learn about AWS Storage Services and complete the hands-on labs in Module 04.
+* Finalize the analysis and design of the Library Management System.
+* Develop the Use Case Diagram, Entity Relationship Diagram (ERD), and database architecture.
+* Begin developing the core backend functionalities.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
 | 2 | - Study Module 04: Storage Services <br>&emsp;+ Advanced Amazon S3 <br>&emsp;+ Storage Classes <br>&emsp;+ Amazon Glacier <br>&emsp;+ AWS Storage Gateway | 29/06/2026 | 29/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Complete Module 04 hands-on labs <br>&emsp;+ VM Import/Export <br>&emsp;+ Amazon FSx <br>&emsp;+ Manage Storage Quotas <br>&emsp;+ Shadow Copies | 30/06/2026 | 30/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Identify the system functionalities <br>&emsp;+ Book Management <br>&emsp;+ Reader Management <br>&emsp;+ Book Borrowing/Returning <br>&emsp;+ Account Management <br> - Categorize functionalities by Actor | 01/07/2026 | 01/07/2026 | Team Discussion |
-| 5 | - Design the Use Case Diagram <br>&emsp;+ Develop the primary Use Cases <br>&emsp;+ Identify Include and Extend relationships <br>&emsp;+ Finalize the diagram using Draw.io | 02/07/2026 | 02/07/2026 | Team Discussion |
-| 6 | - Review the Use Case Diagram with team members <br> - Complete the Use Case Specification document for each functionality | 03/07/2026 | 03/07/2026 | Team Discussion |
+| 3 | - Complete the Module 04 hands-on labs <br>&emsp;+ VM Import/Export <br>&emsp;+ Amazon FSx <br>&emsp;+ Manage Storage Quotas <br>&emsp;+ Shadow Copies | 30/06/2026 | 30/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 4 | - Finalize the system analysis <br>&emsp;+ Design the Use Case Diagram <br>&emsp;+ Identify the core use cases <br>&emsp;+ Complete the Entity Relationship Diagram (ERD) | 01/07/2026 | 01/07/2026 | Team Discussion |
+| 5 | - Build the database structure <br>&emsp;+ Design Django Models <br>&emsp;+ Perform database migrations <br>&emsp;+ Develop the core modules: Book, Category, and Publisher | 02/07/2026 | 02/07/2026 | Team Discussion |
+| 6 | - Test the initial backend functionalities <br>&emsp;+ Verify the database models and migrations <br>&emsp;+ Review the system design with team members <br>&emsp;+ Prepare for developing the business features in the next sprint | 03/07/2026 | 03/07/2026 | Team Discussion |
 
 ### Week 4 Achievements:
 
-* Gained an understanding of AWS Storage services and the purpose of each service:
+* Gained an understanding of AWS Storage Services and the purpose of each service:
   * Amazon S3
   * Amazon Glacier
   * AWS Storage Gateway
   * Amazon FSx
 
-* Completed the hands-on labs in Module 04:
+* Successfully completed the Module 04 hands-on labs:
   * Migrated virtual machines to AWS
   * Deployed Amazon FSx
   * Managed storage resources and evaluated file system performance
 
-* Identified all functionalities of the Library Management System and categorized them according to user roles.
+* Completed the system analysis and design documentation:
+  * Use Case Diagram
+  * Entity Relationship Diagram (ERD)
+  * Database Schema
 
-* Completed the Use Case Diagram, illustrating the interactions between users and the system.
+* Successfully designed the database structure and implemented the initial data models for the Library Management System.
 
-* Finalized the Use Case Specification documentation, providing the foundation for the database design (ERD) phase in the following week.
+* Completed the core backend functionalities:
+  * Book Management
+  * Category Management
+  * Publisher Management
+
+* Successfully completed the first development sprint, establishing a solid foundation for implementing the remaining business features and integrating the frontend in the following week.

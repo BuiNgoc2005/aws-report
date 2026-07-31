@@ -9,37 +9,31 @@ pre: " <b> 1.7. </b> "
 
 ### Mục tiêu tuần 7:
 
-* Bắt đầu triển khai dự án Website Quản lý thư viện.
-* Thiết lập môi trường phát triển và hạ tầng cho dự án.
-* Xây dựng các chức năng Backend nền tảng.
-* Hỗ trợ tích hợp và phối hợp với Frontend trong quá trình phát triển.
+* Phối hợp cùng nhóm triển khai hệ thống Quản lý thư viện trên AWS.
+* Kiểm tra khả năng hoạt động của Backend sau khi triển khai.
+* Hoàn thiện tích hợp Backend và Frontend trên môi trường Cloud.
+* Tối ưu hệ thống và chuẩn bị cho giai đoạn nghiệm thu.
 
 ### Các công việc cần triển khai trong tuần này:
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Khởi tạo GitHub Repository <br>&emsp;+ Thiết lập cấu trúc Backend <br>&emsp;+ Thiết lập quy trình Git Flow và phân chia nhiệm vụ <br> - Cấu hình Docker, Docker Compose và cơ sở dữ liệu PostgreSQL | 20/07/2026 | 20/07/2026 | Team Discussion |
-| 3 | - Xây dựng cấu trúc cơ sở dữ liệu <br>&emsp;+ Thiết kế Models <br>&emsp;+ Thực hiện Migration <br>&emsp;+ Xử lý lỗi liên quan đến dữ liệu hình ảnh và script import CSV | 21/07/2026 | 21/07/2026 | Team Discussion |
-| 4 | - Phát triển các API quản lý sách <br>&emsp;+ Book <br>&emsp;+ Category <br>&emsp;+ Publisher <br> - Hỗ trợ Frontend kiểm thử và tích hợp dữ liệu | 22/07/2026 | 22/07/2026 | Team Discussion |
-| 5 | - Phát triển chức năng quản lý người dùng và mức phí phạt <br>&emsp;+ Authentication <br>&emsp;+ Reader <br>&emsp;+ Fine Management API <br> - Hỗ trợ Frontend tích hợp chức năng cập nhật mức phí | 23/07/2026 | 23/07/2026 | Team Discussion |
-| 6 | - Kiểm thử tích hợp giữa Backend và Frontend <br> - Sửa các lỗi phát sinh trong quá trình tích hợp <br> - Tham gia Sprint Review và thống nhất kế hoạch cho Sprint tiếp theo | 24/07/2026 | 24/07/2026 | Team Discussion |
+| 2 | - Phối hợp cùng nhóm triển khai hệ thống trên AWS <br>&emsp;+ Chuẩn bị Amazon EC2 <br>&emsp;+ Cấu hình Docker và Docker Compose <br>&emsp;+ Triển khai Backend và PostgreSQL lên môi trường thử nghiệm | 20/07/2026 | 20/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 3 | - Kiểm tra Backend sau khi triển khai <br>&emsp;+ Kiểm tra kết nối cơ sở dữ liệu <br>&emsp;+ Kiểm tra các REST API <br>&emsp;+ Xử lý các lỗi cấu hình phát sinh | 21/07/2026 | 21/07/2026 | Team Discussion |
+| 4 | - Tích hợp Backend với Frontend trên môi trường AWS <br>&emsp;+ Kiểm tra luồng dữ liệu <br>&emsp;+ Kiểm tra xác thực người dùng <br>&emsp;+ Hỗ trợ xử lý các lỗi tích hợp | 22/07/2026 | 22/07/2026 | Team Discussion |
+| 5 | - Kiểm thử hệ thống sau triển khai <br>&emsp;+ Kiểm tra các chức năng nghiệp vụ <br>&emsp;+ Tối ưu truy vấn PostgreSQL <br>&emsp;+ Cải thiện hiệu năng API | 23/07/2026 | 23/07/2026 | Team Discussion |
+| 6 | - Tổng hợp các lỗi còn tồn tại <br>&emsp;+ Hoàn thiện Backend <br>&emsp;+ Chuẩn bị tài liệu kỹ thuật <br>&emsp;+ Tham gia Sprint Review và thống nhất kế hoạch nghiệm thu | 24/07/2026 | 24/07/2026 | Team Discussion |
 
 ### Kết quả đạt được tuần 7:
 
-* Hoàn thành việc khởi tạo dự án và cấu hình môi trường phát triển bằng Docker.
+* Triển khai thành công hệ thống Quản lý thư viện trên môi trường AWS bằng **Amazon EC2** kết hợp **Docker**.
 
-* Xây dựng thành công cấu trúc cơ sở dữ liệu và các Model của hệ thống.
+* Hoàn thành việc cấu hình Backend và kết nối thành công với cơ sở dữ liệu **PostgreSQL**.
 
-* Hoàn thiện các API nền tảng cho:
-  * Quản lý sách
-  * Quản lý thể loại
-  * Quản lý nhà xuất bản
-  * Quản lý độc giả
-  * Xác thực người dùng
-  * Quản lý mức phí phạt
+* Tích hợp thành công Backend với Frontend trên môi trường Cloud, đảm bảo dữ liệu được trao đổi chính xác thông qua các REST API.
 
-* Hỗ trợ Frontend trong quá trình tích hợp dữ liệu, xử lý lỗi liên quan đến hình ảnh, migration và import dữ liệu CSV.
+* Kiểm thử toàn bộ các chức năng chính của hệ thống sau khi triển khai và khắc phục các lỗi phát sinh.
 
-* Hoàn thành kiểm thử tích hợp bước đầu giữa Backend và Frontend, đảm bảo các chức năng hoạt động ổn định.
+* Tối ưu hiệu năng của Backend thông qua việc cải thiện truy vấn cơ sở dữ liệu và xử lý API.
 
-* Hoàn thành Sprint đầu tiên và thống nhất kế hoạch phát triển cho giai đoạn tiếp theo.
+* Hoàn thành Sprint triển khai, chuẩn bị đầy đủ môi trường và tài liệu để bước sang giai đoạn hoàn thiện báo cáo, demo và nghiệm thu trong tuần tiếp theo.

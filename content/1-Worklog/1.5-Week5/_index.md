@@ -10,36 +10,42 @@ pre: " <b> 1.5. </b> "
 
 * Learn about AWS Security, Identity, and Compliance services.
 * Complete the hands-on labs in Module 05.
-* Design the database for the Library Management System.
-* Complete the Entity Relationship Diagram (ERD) and prepare for the implementation phase.
+* Develop the core business functionalities of the Library Management System.
+* Collaborate with the frontend team to standardize APIs and integrate data.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Study Module 05: Security, Identity & Compliance <br>&emsp;+ Advanced IAM <br>&emsp;+ AWS Organizations <br>&emsp;+ AWS KMS <br>&emsp;+ AWS Security Hub | 06/07/2026 | 06/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Complete Module 05 hands-on labs <br>&emsp;+ Enable AWS Security Hub <br>&emsp;+ Create IAM Policies <br>&emsp;+ Switch Roles <br>&emsp;+ Manage Resource Tags | 07/07/2026 | 07/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Analyze the system data <br>&emsp;+ Identify the Entities <br>&emsp;+ Define the attributes of each Entity <br>&emsp;+ Identify relationships between database tables | 08/07/2026 | 08/07/2026 | Team Discussion |
-| 5 | - Design the Entity Relationship Diagram (ERD) <br>&emsp;+ Define Primary Keys and Foreign Keys <br>&emsp;+ Normalize the database <br>&emsp;+ Finalize the ERD using Draw.io | 09/07/2026 | 09/07/2026 | Team Discussion |
-| 6 | - Review the ERD with team members <br> - Refine the data model based on feedback <br> - Finalize the Database Schema for the system development phase | 10/07/2026 | 10/07/2026 | Team Discussion |
+| 2 | - Study Module 05: Security, Identity & Compliance <br>&emsp;+ Advanced AWS IAM <br>&emsp;+ AWS Organizations <br>&emsp;+ AWS KMS <br>&emsp;+ AWS Security Hub | 06/07/2026 | 06/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 3 | - Complete the Module 05 hands-on labs <br>&emsp;+ Create IAM Policies <br>&emsp;+ Manage IAM Users and Roles <br>&emsp;+ Explore AWS Security Hub <br>&emsp;+ Manage Resource Tags | 07/07/2026 | 07/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 4 | - Develop the backend functionalities <br>&emsp;+ Reader Management <br>&emsp;+ User Account Management <br>&emsp;+ Complete Authentication and Authorization | 08/07/2026 | 08/07/2026 | Team Discussion |
+| 5 | - Develop RESTful APIs for the core system modules <br>&emsp;+ Book <br>&emsp;+ Reader <br>&emsp;+ Publisher <br>&emsp;+ Category <br> - Collaborate with the frontend team to standardize the data exchange format | 09/07/2026 | 09/07/2026 | Team Discussion |
+| 6 | - Test the developed APIs <br>&emsp;+ Verify CRUD operations <br>&emsp;+ Test user authentication <br>&emsp;+ Fix identified issues and conduct the Sprint Review | 10/07/2026 | 10/07/2026 | Team Discussion |
 
 ### Week 5 Achievements:
 
-* Gained an understanding of AWS security and identity management services:
+* Gained an understanding of AWS security services:
   * AWS IAM
   * AWS Organizations
   * AWS KMS
   * AWS Security Hub
-  * AWS CloudTrail
 
-* Completed the hands-on labs in Module 05:
-  * Enabled AWS Security Hub
-  * Created and managed IAM Policies
-  * Performed Role Switching (Switch Role)
+* Successfully completed the Module 05 hands-on labs:
+  * Managed IAM Users, Groups, and Roles
+  * Created IAM Policies
+  * Explored AWS Security Hub
   * Managed AWS resources using Resource Tags
 
-* Completed the data analysis for the Library Management System.
+* Completed the core backend functionalities of the system:
+  * Book Management
+  * Category Management
+  * Publisher Management
+  * Reader Management
+  * User Account Management
 
-* Designed and finalized the Entity Relationship Diagram (ERD), providing a complete representation of the database entities, attributes, and relationships.
+* Developed RESTful APIs to support integration between the backend and frontend.
 
-* Completed the Database Schema, providing the foundation for database implementation and system feature development in the following weeks.
+* Successfully tested the core APIs, ensuring that the system functionalities operated reliably before frontend integration.
+
+* Successfully completed the second development sprint and prepared to move on to the final phase of implementing the remaining system functionalities.

@@ -14,18 +14,18 @@ Bên cạnh việc hoàn thành các bài học và bài thực hành trong chư
 
 Nội dung công việc của từng tuần được tóm tắt như sau:
 
-**Tuần 1:** [Làm quen với chương trình First Cloud AI Journey, học Module 01 và đề xuất ý tưởng dự án](1.1-week1/)
+**Tuần 1:** [Làm quen với chương trình First Cloud AI Journey, học Module 01, thành lập nhóm và định hướng dự án](1.1-week1/)
 
-**Tuần 2:** [Học Module 02, thảo luận và chốt đề tài, xây dựng Proposal](1.2-week2/)
+**Tuần 2:** [Học Module 02, thống nhất đề tài Website Quản lý thư viện và xây dựng Proposal](1.2-week2/)
 
-**Tuần 3:** [Học Module 03, phân tích nghiệp vụ và xây dựng tài liệu yêu cầu hệ thống (SRS)](1.3-week3/)
+**Tuần 3:** [Học Module 03, khởi tạo dự án, thiết lập môi trường phát triển và phân tích yêu cầu hệ thống](1.3-week3/)
 
-**Tuần 4:** [Học Module 04 và thiết kế Use Case Diagram](1.4-week4/)
+**Tuần 4:** [Học Module 04, hoàn thiện thiết kế hệ thống, xây dựng Use Case Diagram, ERD và phát triển các chức năng nền tảng](1.4-week4/)
 
-**Tuần 5:** [Học Module 05 và thiết kế cơ sở dữ liệu (ERD)](1.5-week5/)
+**Tuần 5:** [Học Module 05, phát triển các chức năng nghiệp vụ, xây dựng RESTful API và phối hợp tích hợp Frontend](1.5-week5/)
 
-**Tuần 6:** [Học Module 06, thiết kế kiến trúc hệ thống và tài liệu API](1.6-week6/)
+**Tuần 6:** [Học Module 06, hoàn thiện các chức năng Backend, tích hợp hệ thống và chuẩn bị triển khai](1.6-week6/)
 
-**Tuần 7:** [Khởi tạo dự án, xây dựng môi trường phát triển và triển khai các chức năng nền tảng](1.7-week7/)
+**Tuần 7:** [Triển khai hệ thống trên AWS, tích hợp Backend–Frontend, kiểm thử và tối ưu hệ thống](1.7-week7/)
 
-**Tuần 8:** [Hoàn thiện hệ thống Quản lý thư viện, triển khai trên AWS và tổng kết dự án](1.8-week8/)
+**Tuần 8:** [Kiểm thử tổng thể, hoàn thiện tài liệu, chuẩn bị demo và tổng kết dự án](1.8-week8/)

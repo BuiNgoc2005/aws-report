@@ -5,44 +5,44 @@ weight: 1
 chapter: false
 pre: " <b> 1.2. </b> "
 ---
-
-
 ### Week 2 Objectives:
 
-* Learn about Amazon Virtual Private Cloud (Amazon VPC) and AWS networking services.
-* Complete the hands-on labs in Module 02.
-* Discuss, evaluate, and finalize the internship project topic.
-* Develop the project Proposal.
+* Learn the fundamental concepts of Amazon VPC and Amazon EC2.
+* Practice deploying basic infrastructure on AWS.
+* Understand how to configure networking and security for AWS resources.
+* Finalize the project topic, scope, and system architecture for the Library Management Website.
+* Complete the project Proposal and prepare to begin project implementation in Week 3.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Study Module 02: Networking <br>&emsp;+ Amazon VPC <br>&emsp;+ CIDR Block <br>&emsp;+ Public Subnet and Private Subnet <br>&emsp;+ Route Table and Internet Gateway | 15/06/2026 | 15/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Practice deploying a VPC <br>&emsp;+ Create a VPC <br>&emsp;+ Create Public and Private Subnets <br>&emsp;+ Configure Route Tables and an Internet Gateway <br>&emsp;+ Configure Security Groups and Network ACLs | 16/06/2026 | 16/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Practice connecting EC2 instances within a VPC <br>&emsp;+ EC2 Instance Connect Endpoint <br>&emsp;+ Test connectivity between Subnets <br> - Hold a team meeting to evaluate the proposed project topics | 17/06/2026 | 17/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 5 | - Discuss with team members <br> - Finalize the project topic: **Library Management Website** <br> - Define the project objectives, scope, and core system functionalities | 18/06/2026 | 18/06/2026 | Meeting |
-| 6 | - Develop the project Proposal <br>&emsp;+ Project introduction <br>&emsp;+ Project objectives <br>&emsp;+ Project scope <br>&emsp;+ Implementation plan <br> - Prepare for the Proposal presentation in the following week | 19/06/2026 | 19/06/2026 | Team Discussion |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | --------------- | ----------------------------------------- |
+| 2 | - Learn about Amazon VPC <br>&emsp;+ CIDR <br>&emsp;+ Subnet <br>&emsp;+ Route Table <br>&emsp;+ Internet Gateway | 15/06/2026 | 15/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 3 | - Practice deploying a VPC <br>&emsp;+ Configure Security Groups <br>&emsp;+ Configure Network ACLs <br>&emsp;+ Test network connectivity | 16/06/2026 | 16/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 4 | - Learn about Amazon EC2 <br>&emsp;+ EC2 Instances <br>&emsp;+ Amazon Machine Image (AMI) <br>&emsp;+ Amazon EBS <br>&emsp;+ Elastic IP | 17/06/2026 | 17/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 5 | - Discuss with team members <br>&emsp;+ Finalize the project topic: **Library Management Website** <br>&emsp;+ Define the project objectives, scope, and core system functionalities <br>&emsp;+ Finalize the system architecture and technology stack for the project | 18/06/2026 | 18/06/2026 | Meeting |
+| 6 | - Collaborate with the team to develop the project Proposal <br>&emsp;+ Project introduction <br>&emsp;+ Project objectives <br>&emsp;+ Project scope <br>&emsp;+ Proposed system architecture <br>&emsp;+ Implementation plan and task assignment in preparation for project initialization in Week 3 | 19/06/2026 | 19/06/2026 | Team Discussion |
 
 ### Week 2 Achievements:
 
-* Acquired fundamental knowledge of Amazon Virtual Private Cloud (VPC) and the components of AWS networking architecture:
+* Gained an understanding of the fundamental architecture of Amazon VPC and how networking infrastructure is organized on AWS:
   * VPC
-  * Public Subnet and Private Subnet
+  * Subnet
   * Route Table
   * Internet Gateway
-  * Security Group
-  * Network ACL
 
-* Completed the hands-on labs in Module 02, including:
-  * Deploying a VPC
-  * Configuring networking components
-  * Testing connectivity between resources within the VPC
+* Learned how to configure network security components:
+  * Security Groups
+  * Network ACLs
 
-* Discussed and evaluated the proposed project topics with team members.
+* Gained an understanding of Amazon EC2 and its related components:
+  * EC2 Instances
+  * Amazon Machine Image (AMI)
+  * Amazon EBS
+  * Elastic IP
 
-* Agreed to select the **Library Management Website** as the project topic for the internship.
+* Successfully launched an EC2 instance, established an SSH connection, and became familiar with managing AWS resources.
 
-* Defined the project objectives, scope, and core system functionalities as the foundation for the analysis and design phase.
+* Finalized the **Library Management Website** as the project topic, and defined the project's objectives, scope, core functionalities, and overall system architecture.
 
-* Completed the first version of the project Proposal in preparation for presentation and feedback in the following week.
+* Completed the project Proposal and finalized the technology stack, establishing a solid foundation to **initialize the project and begin development at the start of Week 3**.
