@@ -6,28 +6,30 @@ chapter: false
 pre: " <b> 5. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
-
-# Đảm bảo truy cập Hybrid an toàn đến S3 bằng cách sử dụng VPC endpoint
+# Triển khai hệ thống Quản lý Thư viện an toàn trên AWS
 
 #### Tổng quan
 
-**AWS PrivateLink** cung cấp kết nối riêng tư đến các dịch vụ aws từ VPCs hoặc trung tâm dữ liệu (on-premise) mà không làm lộ lưu lượng truy cập ra ngoài public internet.
+Hệ thống **Quản lý Thư viện (Library Management System)** là ứng dụng web xây dựng trên nền tảng **Django**, được triển khai trên hạ tầng **AWS** nhằm đảm bảo tính bảo mật, khả năng mở rộng và dễ dàng vận hành.
 
-Trong bài lab này, chúng ta sẽ học cách tạo, cấu hình, và kiểm tra VPC endpoints để cho phép workload của bạn tiếp cận các dịch vụ AWS mà không cần đi qua Internet công cộng.
+Trong workshop này, chúng ta sẽ học cách xây dựng một hạ tầng AWS hoàn chỉnh cho ứng dụng web, từ việc thiết lập mạng riêng (VPC), cấu hình bảo mật (Security Groups, IAM), đến triển khai cơ sở dữ liệu, lưu trữ, ứng dụng và giám sát hệ thống.
 
-Chúng ta sẽ tạo hai loại endpoints để truy cập đến Amazon S3: gateway vpc endpoint và interface vpc endpoint. Hai loại vpc endpoints này mang đến nhiều lợi ích tùy thuộc vào việc bạn truy cập đến S3 từ môi trường cloud hay từ trung tâm dữ liệu (on-premise).
-+ **Gateway** - Tạo gateway endpoint để gửi lưu lượng đến Amazon S3 hoặc DynamoDB using private IP addresses. Bạn điều hướng lưu lượng từ VPC của bạn đến gateway endpoint bằng các bảng định tuyến (route tables)
-+ **Interface** - Tạo interface endpoint để gửi lưu lượng đến các dịch vụ điểm cuối (endpoints) sử dụng Network Load Balancer để phân phối lưu lượng. Lưu lượng dành cho dịch vụ điểm cuối được resolved bằng DNS.
+Hệ thống sử dụng các dịch vụ AWS chính sau, mỗi dịch vụ đóng một vai trò riêng biệt trong kiến trúc:
++ **Amazon VPC** - Thiết lập hạ tầng mạng riêng, tách biệt Public Subnet (chứa ứng dụng) và Private Subnet (chứa cơ sở dữ liệu) để tăng tính bảo mật.
++ **Security Groups** - Kiểm soát lưu lượng truy cập ở tầng mạng, giới hạn EC2 chỉ mở các cổng cần thiết và RDS chỉ nhận kết nối từ đúng nguồn được phép.
++ **AWS IAM** - Quản lý người dùng và phân quyền truy cập, cho phép ứng dụng thao tác với S3 và EC2 gửi log lên CloudWatch mà không cần lưu key thủ công.
++ **Amazon RDS (PostgreSQL)** - Lưu trữ toàn bộ dữ liệu nghiệp vụ của hệ thống, đặt trong Private Subnet để không thể truy cập trực tiếp từ Internet.
++ **Amazon S3** - Lưu trữ hình ảnh bìa sách và tài liệu do người dùng tải lên.
++ **Amazon EC2** - Chạy ứng dụng Django trong môi trường Docker, xử lý toàn bộ nghiệp vụ của hệ thống.
++ **Amazon CloudWatch** - Thu thập log, giám sát tài nguyên và trạng thái hoạt động của hệ thống.
 
 #### Nội dung
 
-1. [Tổng quan về workshop](5.1-Workshop-overview/)
-2. [Chuẩn bị](5.2-Prerequiste/)
-3. [Truy cập đến S3 từ VPC](5.3-S3-vpc/)
-4. [Truy cập đến S3 từ TTDL On-premises](5.4-S3-onprem/)
-5. [VPC Endpoint Policies (làm thêm)](5.5-Policy/)
-6. [Dọn dẹp tài nguyên](5.6-Cleanup/)
+1. [Giới thiệu](5.1-Introduction/)
+2. [Các bước chuẩn bị](5.2-Prerequisites/)
+3. [Thiết lập mạng (VPC)](5.3-Network-setup/)
+4. [Thiết lập bảo mật (Security Groups & IAM)](5.4-Security-setup/)
+5. [Triển khai cơ sở dữ liệu và lưu trữ (RDS & S3)](5.5-Database-and-storage/)
+6. [Triển khai ứng dụng trên EC2](5.6-Application-deployment/)
+7. [Giám sát hệ thống (CloudWatch)](5.7-Monitoring/)
+8. [Dọn dẹp tài nguyên](5.8-Cleanup/)
