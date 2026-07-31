@@ -9,46 +9,37 @@ pre: " <b> 1.8. </b> "
 
 ### Mục tiêu tuần 8:
 
-* Hoàn thiện toàn bộ hệ thống Quản lý thư viện.
-* Kiểm thử, sửa lỗi và tối ưu ứng dụng.
-* Triển khai hệ thống trên AWS và đánh giá kết quả.
-* Hoàn thiện tài liệu, báo cáo và chuẩn bị demo dự án.
+* Phối hợp cùng nhóm triển khai hệ thống Quản lý thư viện trên AWS.
+* Hoàn thiện Backend và tích hợp với Frontend.
+* Kiểm thử, sửa lỗi và tối ưu hệ thống.
+* Hoàn thiện tài liệu, chuẩn bị demo và báo cáo thực tập.
 
 ### Các công việc cần triển khai trong tuần này:
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Hoàn thiện chức năng quản lý mượn/trả sách <br>&emsp;+ Tạo phiếu mượn <br>&emsp;+ Trả sách <br>&emsp;+ Kiểm tra trạng thái sách <br>&emsp;+ Ghi nhận lịch sử giao dịch <br> - Kiểm thử các chức năng chính của hệ thống | 03/08/2026 | 03/08/2026 | Team Discussion |
-| 3 | - Hoàn thiện chức năng xác thực và phân quyền <br>&emsp;+ Đăng nhập <br>&emsp;+ Phân quyền người dùng <br>&emsp;+ Kiểm tra quyền truy cập <br> - Khắc phục các lỗi phát hiện trong quá trình kiểm thử | 04/08/2026 | 04/08/2026 | Team Discussion |
-| 4 | - Tích hợp Backend với PostgreSQL <br>&emsp;+ Kiểm thử API <br>&emsp;+ Kiểm tra luồng dữ liệu <br>&emsp;+ Tối ưu truy vấn cơ sở dữ liệu và hiệu năng hệ thống | 05/08/2026 | 05/08/2026 | Team Discussion |
-| 5 | - Triển khai hệ thống trên AWS <br>&emsp;+ Cấu hình Amazon EC2 <br>&emsp;+ Triển khai Docker và Docker Compose <br>&emsp;+ Kiểm tra khả năng truy cập và vận hành hệ thống | 06/08/2026 | 06/08/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 6 | - Hoàn thiện tài liệu dự án <br>&emsp;+ README <br>&emsp;+ API Documentation <br>&emsp;+ Use Case Diagram <br>&emsp;+ ERD <br>&emsp;+ System Architecture <br> - Chuẩn bị demo hệ thống <br> - Hoàn thiện báo cáo thực tập và tổng kết chương trình | 07/08/2026 | 07/08/2026 | Team Discussion |
+| 2 | - Phối hợp triển khai hệ thống trên AWS <br>&emsp;+ Cấu hình Amazon EC2 <br>&emsp;+ Triển khai Docker và Docker Compose <br>&emsp;+ Kiểm tra môi trường và khả năng truy cập hệ thống | 27/07/2026 | 27/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 3 | - Tích hợp Backend với Frontend sau khi triển khai <br>&emsp;+ Kiểm tra các API <br>&emsp;+ Kiểm tra kết nối PostgreSQL <br>&emsp;+ Khắc phục các lỗi phát sinh trong quá trình tích hợp | 28/07/2026 | 28/07/2026 | Team Discussion |
+| 4 | - Tham gia kiểm thử tích hợp hệ thống <br>&emsp;+ Kiểm thử các chức năng nghiệp vụ <br>&emsp;+ Kiểm tra luồng dữ liệu giữa Backend và Frontend <br>&emsp;+ Ghi nhận và sửa các lỗi phát sinh | 29/07/2026 | 29/07/2026 | Team Discussion |
+| 5 | - Tối ưu Backend sau kiểm thử <br>&emsp;+ Tối ưu truy vấn PostgreSQL <br>&emsp;+ Cải thiện hiệu năng API <br>&emsp;+ Kiểm tra lại khả năng vận hành của hệ thống | 30/07/2026 | 30/07/2026 | Team Discussion |
+| 6 | - Hoàn thiện tài liệu dự án <br>&emsp;+ README <br>&emsp;+ API Documentation <br>&emsp;+ Cập nhật Proposal và sơ đồ hệ thống <br> - Chuẩn bị demo và hoàn thiện báo cáo thực tập | 31/07/2026 | 31/07/2026 | Team Discussion |
 
 ### Kết quả đạt được tuần 8:
 
-* Hoàn thiện toàn bộ các chức năng của hệ thống:
-  * Quản lý người dùng
-  * Quản lý sách
-  * Quản lý tác giả
-  * Quản lý thể loại
-  * Quản lý nhà xuất bản
-  * Quản lý độc giả
-  * Quản lý mượn và trả sách
-  * Phân quyền người dùng
+* Hoàn thành triển khai hệ thống trên AWS bằng Amazon EC2 kết hợp Docker.
 
-* Tích hợp thành công ứng dụng Django với cơ sở dữ liệu PostgreSQL và hoàn thành kiểm thử các chức năng chính.
+* Hoàn thành tích hợp Backend với Frontend và kiểm tra khả năng hoạt động của toàn bộ hệ thống.
 
-* Triển khai thành công hệ thống trên AWS bằng Amazon EC2 kết hợp Docker, đảm bảo ứng dụng hoạt động ổn định trên môi trường Cloud.
+* Hoàn thiện kiểm thử các API và khắc phục các lỗi phát sinh trong quá trình tích hợp.
 
-* Phát hiện và khắc phục các lỗi trong quá trình kiểm thử, đồng thời tối ưu hiệu năng và cải thiện trải nghiệm người dùng.
+* Tối ưu cơ sở dữ liệu PostgreSQL và cải thiện hiệu năng xử lý của Backend.
 
-* Hoàn thiện đầy đủ tài liệu của dự án, bao gồm:
+* Hoàn thiện các tài liệu của dự án gồm:
   * Proposal
-  * Use Case Diagram
-  * Entity Relationship Diagram (ERD)
-  * System Architecture Diagram
+  * API Documentation
   * README hướng dẫn cài đặt và sử dụng
+  * System Architecture
 
 * Chuẩn bị đầy đủ mã nguồn, tài liệu và nội dung demo phục vụ báo cáo thực tập.
 
-* Hoàn thành báo cáo thực tập, tổng kết những kiến thức và kỹ năng đạt được trong quá trình tham gia chương trình First Cloud AI Journey, đồng thời tiếp thu các góp ý để hoàn thiện phiên bản cuối của dự án.
+* Hoàn thành báo cáo thực tập, tổng kết quá trình tham gia chương trình First Cloud AI Journey và tiếp thu các góp ý để hoàn thiện phiên bản cuối của dự án.
