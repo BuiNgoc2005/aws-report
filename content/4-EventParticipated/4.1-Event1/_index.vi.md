@@ -51,7 +51,7 @@ Cuộc thi mang đến không khí sôi nổi và tạo cơ hội để các đ�
 #### Một số hình ảnh khi tham gia sự kiện
 
 ![Event Picure](/images/4-Event/event1_1.png)
-![Event Picure](/images/4-Event/event1_2.JPG)
+![Event Picure](/images/4-Event/event1_2.jpg)
 
 
 > Cuộc thi không chỉ giúp mình biết và củng cố kiến thức AWS mà còn tạo một môi trường năng động và vui vẻ.

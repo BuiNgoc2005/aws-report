@@ -3,7 +3,7 @@ title: "Event 2"
 date: 2024-01-01
 weight: 1
 chapter: false
-pre: " <b> 4.3. </b> "
+pre: " <b> 4.2. </b> "
 ---
 
 # Reflection Report: "FCAJ - Agentic AI Build Week"
@@ -97,6 +97,8 @@ Participating in the **FCAJ – Agentic AI Build Week** sharing session gave me 
 
 #### Event Photos
 
-* Add your event photos here.
+![Event Picure](/images/4-Event/event_self_2.jpg)
+![Event Picure](/images/4-Event/event2_1.jpg)
+![Event Picure](/images/4-Event/event2_2.jpg)
 
 > Overall, the **FCAJ – Agentic AI Build Week** sharing session helped me gain a deeper understanding of the journey of participating in Agentic AI Build Week while providing valuable practical insights into AI product development, teamwork, and the application of Generative AI to solve real-world problems. It was a highly valuable experience that motivated me to continue learning and applying AI in future projects.

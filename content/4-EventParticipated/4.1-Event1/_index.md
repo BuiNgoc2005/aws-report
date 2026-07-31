@@ -52,6 +52,6 @@ The competition created an exciting and engaging atmosphere, allowing participan
 
 ![Event Picture](/images/4-Event/event1_1.png)
 
-![Event Picture](/images/4-Event/event1_2.JPG)
+![Event Picture](/images/4-Event/event1_2.jpg)
 
 > This competition not only helped me strengthen my AWS knowledge but also provided a fun, engaging, and collaborative learning environment.
