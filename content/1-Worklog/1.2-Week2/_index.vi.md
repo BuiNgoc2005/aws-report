@@ -17,11 +17,11 @@ pre: " <b> 1.2. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Học Module 02: Networking <br>&emsp;+ Amazon VPC <br>&emsp;+ CIDR Block <br>&emsp;+ Public Subnet và Private Subnet <br>&emsp;+ Route Table và Internet Gateway | 22/06/2026 | 22/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Thực hành triển khai VPC <br>&emsp;+ Tạo VPC <br>&emsp;+ Tạo Public/Private Subnet <br>&emsp;+ Cấu hình Route Table, Internet Gateway <br>&emsp;+ Security Group và Network ACL | 23/06/2026 | 23/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Thực hành kết nối EC2 trong VPC <br>&emsp;+ EC2 Instance Connect Endpoint <br>&emsp;+ Kiểm tra kết nối giữa các Subnet <br> - Họp nhóm đánh giá các đề tài đã đề xuất | 24/06/2026 | 24/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 5 | - Thảo luận với các thành viên <br>- Thống nhất lựa chọn đề tài **Website Quản lý thư viện** <br>- Xác định mục tiêu, phạm vi và các chức năng chính của hệ thống | 25/06/2026 | 25/06/2026 | Meeting |
-| 6 | - Xây dựng Proposal cho dự án <br>&emsp;+ Giới thiệu đề tài <br>&emsp;+ Mục tiêu thực hiện <br>&emsp;+ Phạm vi dự án <br>&emsp;+ Kế hoạch triển khai <br>- Chuẩn bị trình bày Proposal trong tuần tiếp theo | 26/06/2026 | 26/06/2026 | Team Discussion |
+| 2 | - Học Module 02: Networking <br>&emsp;+ Amazon VPC <br>&emsp;+ CIDR Block <br>&emsp;+ Public Subnet và Private Subnet <br>&emsp;+ Route Table và Internet Gateway | 15/06/2026 | 15/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 3 | - Thực hành triển khai VPC <br>&emsp;+ Tạo VPC <br>&emsp;+ Tạo Public/Private Subnet <br>&emsp;+ Cấu hình Route Table, Internet Gateway <br>&emsp;+ Security Group và Network ACL | 16/06/2026 | 16/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 4 | - Thực hành kết nối EC2 trong VPC <br>&emsp;+ EC2 Instance Connect Endpoint <br>&emsp;+ Kiểm tra kết nối giữa các Subnet <br> - Họp nhóm đánh giá các đề tài đã đề xuất | 17/06/2026 | 17/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 5 | - Thảo luận với các thành viên <br>- Thống nhất lựa chọn đề tài **Website Quản lý thư viện** <br>- Xác định mục tiêu, phạm vi và các chức năng chính của hệ thống | 18/06/2026 | 18/06/2026 | Meeting |
+| 6 | - Xây dựng Proposal cho dự án <br>&emsp;+ Giới thiệu đề tài <br>&emsp;+ Mục tiêu thực hiện <br>&emsp;+ Phạm vi dự án <br>&emsp;+ Kế hoạch triển khai <br>- Chuẩn bị trình bày Proposal trong tuần tiếp theo | 19/06/2026 | 19/06/2026 | Team Discussion |
 
 ### Kết quả đạt được tuần 2:
 

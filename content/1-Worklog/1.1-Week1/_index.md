@@ -19,11 +19,11 @@ pre: " <b> 1.1. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Attend the First Cloud AI Journey program introduction session <br> - Get acquainted with the members and the internship process <br> - Learn about the learning roadmap and program requirements | 15/06/2026 | 15/06/2026 | First Cloud AI Journey |
-| 3 | - Study Module 01: Introduction to Cloud Computing and AWS <br>&emsp;+ Cloud Computing <br>&emsp;+ AWS Global Infrastructure <br>&emsp;+ AWS Service Categories <br>&emsp;+ AWS Management Console | 16/06/2026 | 16/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Complete Module 01 hands-on labs: <br>&emsp;+ Create an AWS account <br>&emsp;+ Set up Virtual MFA <br>&emsp;+ Create an IAM User and an IAM Admin Group <br>&emsp;+ Learn how to manage an AWS account | 17/06/2026 | 17/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 5 | - Practice using AWS Budgets and AWS Support <br>&emsp;+ Create a Cost Budget <br>&emsp;+ Learn about Usage Budgets and AWS Support Plans <br> - Hold the first team meeting to discuss the project direction and propose project ideas | 18/06/2026 | 18/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 6 | - Discuss project ideas <br>&emsp;+ Library Management Website <br>&emsp;+ Clinic Management Website <br>&emsp;+ Sales Management Website <br> - Evaluate the feasibility of each topic and assign research tasks to prepare the Proposal for the following week | 19/06/2026 | 19/06/2026 | Meeting |
+| 2 | - Attend the First Cloud AI Journey program introduction session <br> - Get acquainted with the members and the internship process <br> - Learn about the learning roadmap and program requirements | 08/06/2026 | 08/06/2026 | First Cloud AI Journey |
+| 3 | - Study Module 01: Introduction to Cloud Computing and AWS <br>&emsp;+ Cloud Computing <br>&emsp;+ AWS Global Infrastructure <br>&emsp;+ AWS Service Categories <br>&emsp;+ AWS Management Console | 09/06/2026 | 09/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 4 | - Complete Module 01 hands-on labs: <br>&emsp;+ Create an AWS account <br>&emsp;+ Set up Virtual MFA <br>&emsp;+ Create an IAM User and an IAM Admin Group <br>&emsp;+ Learn how to manage an AWS account | 10/06/2026 | 10/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 5 | - Practice using AWS Budgets and AWS Support <br>&emsp;+ Create a Cost Budget <br>&emsp;+ Learn about Usage Budgets and AWS Support Plans <br> - Hold the first team meeting to discuss the project direction and propose project ideas | 11/06/2026 | 11/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 6 | - Discuss project ideas <br>&emsp;+ Library Management Website <br>&emsp;+ Clinic Management Website <br>&emsp;+ Sales Management Website <br> - Evaluate the feasibility of each topic and assign research tasks to prepare the Proposal for the following week | 12/06/2026 | 12/06/2026 | Meeting |
 
 ### Week 1 Achievements:
 

@@ -17,11 +17,11 @@ pre: " <b> 1.3. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Học Module 03: Compute Services <br>&emsp;+ Amazon EC2 <br>&emsp;+ AMI <br>&emsp;+ Amazon EBS <br>&emsp;+ EC2 Auto Scaling | 29/06/2026 | 29/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Thực hành Module 03 <br>&emsp;+ AWS Backup <br>&emsp;+ Tạo Backup Plan <br>&emsp;+ Thực hiện Test Restore <br>&emsp;+ Tìm hiểu Amazon Storage Gateway | 30/06/2026 | 30/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Thực hành triển khai Static Website trên Amazon S3 <br>&emsp;+ Website Hosting <br>&emsp;+ Versioning <br>&emsp;+ CloudFront CDN <br>&emsp;+ Multi-Region Replication | 01/07/2026 | 01/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 5 | - Phân tích nghiệp vụ hệ thống Quản lý thư viện <br>&emsp;+ Khảo sát quy trình quản lý sách <br>&emsp;+ Quy trình mượn/trả sách <br>&emsp;+ Quy trình quản lý độc giả <br>- Xác định các Actor của hệ thống | 02/07/2026 | 02/07/2026 | Team Discussion |
-| 6 | - Xây dựng Software Requirement Specification (SRS) <br>&emsp;+ Functional Requirements <br>&emsp;+ Non-functional Requirements <br>- Họp nhóm review kết quả phân tích và chuẩn bị thiết kế Use Case Diagram | 03/07/2026 | 03/07/2026 | Team Discussion |
+| 2 | - Học Module 03: Compute Services <br>&emsp;+ Amazon EC2 <br>&emsp;+ AMI <br>&emsp;+ Amazon EBS <br>&emsp;+ EC2 Auto Scaling | 22/06/2026 | 22/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 3 | - Thực hành Module 03 <br>&emsp;+ AWS Backup <br>&emsp;+ Tạo Backup Plan <br>&emsp;+ Thực hiện Test Restore <br>&emsp;+ Tìm hiểu Amazon Storage Gateway | 23/06/2026 | 23/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 4 | - Thực hành triển khai Static Website trên Amazon S3 <br>&emsp;+ Website Hosting <br>&emsp;+ Versioning <br>&emsp;+ CloudFront CDN <br>&emsp;+ Multi-Region Replication | 24/06/2026 | 24/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 5 | - Phân tích nghiệp vụ hệ thống Quản lý thư viện <br>&emsp;+ Khảo sát quy trình quản lý sách <br>&emsp;+ Quy trình mượn/trả sách <br>&emsp;+ Quy trình quản lý độc giả <br>- Xác định các Actor của hệ thống | 25/06/2026 | 25/06/2026 | Team Discussion |
+| 6 | - Xây dựng Software Requirement Specification (SRS) <br>&emsp;+ Functional Requirements <br>&emsp;+ Non-functional Requirements <br>- Họp nhóm review kết quả phân tích và chuẩn bị thiết kế Use Case Diagram | 26/06/2026 | 26/06/2026 | Team Discussion |
 
 ### Kết quả đạt được tuần 3:
 

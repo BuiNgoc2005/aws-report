@@ -16,11 +16,11 @@ pre: " <b> 1.4. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Study Module 04: Storage Services <br>&emsp;+ Advanced Amazon S3 <br>&emsp;+ Storage Classes <br>&emsp;+ Amazon Glacier <br>&emsp;+ AWS Storage Gateway | 06/07/2026 | 06/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Complete Module 04 hands-on labs <br>&emsp;+ VM Import/Export <br>&emsp;+ Amazon FSx <br>&emsp;+ Manage Storage Quotas <br>&emsp;+ Shadow Copies | 07/07/2026 | 07/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Identify the system functionalities <br>&emsp;+ Book Management <br>&emsp;+ Reader Management <br>&emsp;+ Book Borrowing/Returning <br>&emsp;+ Account Management <br> - Categorize functionalities by Actor | 08/07/2026 | 08/07/2026 | Team Discussion |
-| 5 | - Design the Use Case Diagram <br>&emsp;+ Develop the primary Use Cases <br>&emsp;+ Identify Include and Extend relationships <br>&emsp;+ Finalize the diagram using Draw.io | 09/07/2026 | 09/07/2026 | Team Discussion |
-| 6 | - Review the Use Case Diagram with team members <br> - Complete the Use Case Specification document for each functionality | 10/07/2026 | 10/07/2026 | Team Discussion |
+| 2 | - Study Module 04: Storage Services <br>&emsp;+ Advanced Amazon S3 <br>&emsp;+ Storage Classes <br>&emsp;+ Amazon Glacier <br>&emsp;+ AWS Storage Gateway | 29/06/2026 | 29/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 3 | - Complete Module 04 hands-on labs <br>&emsp;+ VM Import/Export <br>&emsp;+ Amazon FSx <br>&emsp;+ Manage Storage Quotas <br>&emsp;+ Shadow Copies | 30/06/2026 | 30/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 4 | - Identify the system functionalities <br>&emsp;+ Book Management <br>&emsp;+ Reader Management <br>&emsp;+ Book Borrowing/Returning <br>&emsp;+ Account Management <br> - Categorize functionalities by Actor | 01/07/2026 | 01/07/2026 | Team Discussion |
+| 5 | - Design the Use Case Diagram <br>&emsp;+ Develop the primary Use Cases <br>&emsp;+ Identify Include and Extend relationships <br>&emsp;+ Finalize the diagram using Draw.io | 02/07/2026 | 02/07/2026 | Team Discussion |
+| 6 | - Review the Use Case Diagram with team members <br> - Complete the Use Case Specification document for each functionality | 03/07/2026 | 03/07/2026 | Team Discussion |
 
 ### Week 4 Achievements:
 

@@ -17,11 +17,11 @@ pre: " <b> 1.6. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Học Module 06: Database Services <br>&emsp;+ Amazon RDS <br>&emsp;+ Amazon Aurora <br>&emsp;+ Amazon Redshift <br>&emsp;+ Amazon ElastiCache | 20/07/2026 | 20/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Thực hành Module 06 <br>&emsp;+ Tạo Amazon RDS <br>&emsp;+ Kết nối cơ sở dữ liệu <br>&emsp;+ Sao lưu và khôi phục dữ liệu <br>&emsp;+ Thực hành các câu lệnh SQL cơ bản | 21/07/2026 | 21/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Thực hành Database Migration <br>&emsp;+ AWS DMS <br>&emsp;+ AWS Schema Conversion Tool (SCT) <br> - Thiết kế kiến trúc tổng thể của hệ thống (System Architecture Diagram) | 22/07/2026 | 22/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 5 | - Thiết kế RESTful API <br>&emsp;+ API xác thực người dùng <br>&emsp;+ API quản lý sách <br>&emsp;+ API quản lý độc giả <br>&emsp;+ API mượn và trả sách | 23/07/2026 | 23/07/2026 | Team Discussion |
-| 6 | - Thảo luận và thống nhất công nghệ sử dụng <br>&emsp;+ Backend Framework <br>&emsp;+ Database <br>&emsp;+ Docker <br>&emsp;+ AWS Services <br>- Phân công nhiệm vụ cho từng thành viên và chuẩn bị triển khai Sprint đầu tiên | 24/07/2026 | 24/07/2026 | Team Discussion |
+| 2 | - Học Module 06: Database Services <br>&emsp;+ Amazon RDS <br>&emsp;+ Amazon Aurora <br>&emsp;+ Amazon Redshift <br>&emsp;+ Amazon ElastiCache | 13/07/2026 | 13/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 3 | - Thực hành Module 06 <br>&emsp;+ Tạo Amazon RDS <br>&emsp;+ Kết nối cơ sở dữ liệu <br>&emsp;+ Sao lưu và khôi phục dữ liệu <br>&emsp;+ Thực hành các câu lệnh SQL cơ bản | 14/07/2026 | 14/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 4 | - Thực hành Database Migration <br>&emsp;+ AWS DMS <br>&emsp;+ AWS Schema Conversion Tool (SCT) <br> - Thiết kế kiến trúc tổng thể của hệ thống (System Architecture Diagram) | 15/07/2026 | 15/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 5 | - Thiết kế RESTful API <br>&emsp;+ API xác thực người dùng <br>&emsp;+ API quản lý sách <br>&emsp;+ API quản lý độc giả <br>&emsp;+ API mượn và trả sách | 16/07/2026 | 16/07/2026 | Team Discussion |
+| 6 | - Thảo luận và thống nhất công nghệ sử dụng <br>&emsp;+ Backend Framework <br>&emsp;+ Database <br>&emsp;+ Docker <br>&emsp;+ AWS Services <br>- Phân công nhiệm vụ cho từng thành viên và chuẩn bị triển khai Sprint đầu tiên | 17/07/2026 | 17/07/2026 | Team Discussion |
 
 ### Kết quả đạt được tuần 6:
 

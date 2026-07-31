@@ -16,11 +16,11 @@ pre: " <b> 1.4. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Học Module 04: Storage Services <br>&emsp;+ Amazon S3 nâng cao <br>&emsp;+ Storage Class <br>&emsp;+ Glacier <br>&emsp;+ Storage Gateway | 06/07/2026 | 06/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Thực hành Module 04 <br>&emsp;+ VM Import/Export <br>&emsp;+ Amazon FSx <br>&emsp;+ Quản lý Storage Quotas <br>&emsp;+ Shadow Copies | 07/07/2026 | 07/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Xác định các chức năng của hệ thống <br>&emsp;+ Quản lý sách <br>&emsp;+ Quản lý độc giả <br>&emsp;+ Mượn/Trả sách <br>&emsp;+ Quản lý tài khoản <br>- Phân loại chức năng theo từng Actor | 08/07/2026 | 08/07/2026 | Team Discussion |
-| 5 | - Thiết kế Use Case Diagram <br>&emsp;+ Xây dựng các Use Case chính <br>&emsp;+ Xác định quan hệ Include và Extend <br>&emsp;+ Hoàn thiện sơ đồ bằng Draw.io | 09/07/2026 | 09/07/2026 | Team Discussion |
-| 6 | - Review Use Case Diagram với các thành viên <br>- Hoàn thiện tài liệu Use Case Specification cho từng chức năng | 10/07/2026 | 10/07/2026 | Team Discussion |
+| 2 | - Học Module 04: Storage Services <br>&emsp;+ Amazon S3 nâng cao <br>&emsp;+ Storage Class <br>&emsp;+ Glacier <br>&emsp;+ Storage Gateway | 29/06/2026 | 29/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 3 | - Thực hành Module 04 <br>&emsp;+ VM Import/Export <br>&emsp;+ Amazon FSx <br>&emsp;+ Quản lý Storage Quotas <br>&emsp;+ Shadow Copies | 30/06/2026 | 30/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 4 | - Xác định các chức năng của hệ thống <br>&emsp;+ Quản lý sách <br>&emsp;+ Quản lý độc giả <br>&emsp;+ Mượn/Trả sách <br>&emsp;+ Quản lý tài khoản <br>- Phân loại chức năng theo từng Actor | 01/07/2026 | 01/07/2026 | Team Discussion |
+| 5 | - Thiết kế Use Case Diagram <br>&emsp;+ Xây dựng các Use Case chính <br>&emsp;+ Xác định quan hệ Include và Extend <br>&emsp;+ Hoàn thiện sơ đồ bằng Draw.io | 02/07/2026 | 02/07/2026 | Team Discussion |
+| 6 | - Review Use Case Diagram với các thành viên <br>- Hoàn thiện tài liệu Use Case Specification cho từng chức năng | 03/07/2026 | 03/07/2026 | Team Discussion |
 
 ### Kết quả đạt được tuần 4:
 

@@ -17,11 +17,11 @@ pre: " <b> 1.7. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Initialize the GitHub repository <br>&emsp;+ Create the project structure <br>&emsp;+ Set up development branches <br>&emsp;+ Assign tasks to team members | 27/07/2026 | 27/07/2026 | Team Discussion |
-| 3 | - Set up the development environment <br>&emsp;+ Configure Docker and Docker Compose <br>&emsp;+ Initialize the database <br>&emsp;+ Connect the backend to the database | 28/07/2026 | 28/07/2026 | Team Discussion |
-| 4 | - Develop the Book Management module <br>&emsp;+ Book CRUD <br>&emsp;+ Category CRUD <br>&emsp;+ Test the core APIs | 29/07/2026 | 29/07/2026 | Team Discussion |
-| 5 | - Develop the Reader Management module <br>&emsp;+ Reader CRUD <br>&emsp;+ User Account Management <br>&emsp;+ Perform integration testing | 30/07/2026 | 30/07/2026 | Team Discussion |
-| 6 | - Hold the Sprint 1 review meeting <br> - Review the implementation progress <br> - Fix identified issues and update the development plan for the following week | 31/07/2026 | 31/07/2026 | Team Discussion |
+| 2 | - Initialize the GitHub repository <br>&emsp;+ Create the project structure <br>&emsp;+ Set up development branches <br>&emsp;+ Assign tasks to team members | 20/07/2026 | 20/07/2026 | Team Discussion |
+| 3 | - Set up the development environment <br>&emsp;+ Configure Docker and Docker Compose <br>&emsp;+ Initialize the database <br>&emsp;+ Connect the backend to the database | 21/07/2026 | 21/07/2026 | Team Discussion |
+| 4 | - Develop the Book Management module <br>&emsp;+ Book CRUD <br>&emsp;+ Category CRUD <br>&emsp;+ Test the core APIs | 22/07/2026 | 22/07/2026 | Team Discussion |
+| 5 | - Develop the Reader Management module <br>&emsp;+ Reader CRUD <br>&emsp;+ User Account Management <br>&emsp;+ Perform integration testing | 23/07/2026 | 23/07/2026 | Team Discussion |
+| 6 | - Hold the Sprint 1 review meeting <br> - Review the implementation progress <br> - Fix identified issues and update the development plan for the following week | 24/07/2026 | 24/07/2026 | Team Discussion |
 
 ### Week 7 Achievements:
 

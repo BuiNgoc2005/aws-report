@@ -17,11 +17,11 @@ pre: " <b> 1.6. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Study Module 06: Database Services <br>&emsp;+ Amazon RDS <br>&emsp;+ Amazon Aurora <br>&emsp;+ Amazon Redshift <br>&emsp;+ Amazon ElastiCache | 20/07/2026 | 20/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Complete Module 06 hands-on labs <br>&emsp;+ Create an Amazon RDS database <br>&emsp;+ Connect to the database <br>&emsp;+ Back up and restore data <br>&emsp;+ Practice basic SQL queries | 21/07/2026 | 21/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Practice Database Migration <br>&emsp;+ AWS Database Migration Service (AWS DMS) <br>&emsp;+ AWS Schema Conversion Tool (AWS SCT) <br> - Design the overall system architecture (System Architecture Diagram) | 22/07/2026 | 22/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 5 | - Design RESTful APIs <br>&emsp;+ User Authentication API <br>&emsp;+ Book Management API <br>&emsp;+ Reader Management API <br>&emsp;+ Book Borrowing and Returning API | 23/07/2026 | 23/07/2026 | Team Discussion |
-| 6 | - Discuss and finalize the technology stack <br>&emsp;+ Backend Framework <br>&emsp;+ Database <br>&emsp;+ Docker <br>&emsp;+ AWS Services <br> - Assign tasks to each team member and prepare for the first development sprint | 24/07/2026 | 24/07/2026 | Team Discussion |
+| 2 | - Study Module 06: Database Services <br>&emsp;+ Amazon RDS <br>&emsp;+ Amazon Aurora <br>&emsp;+ Amazon Redshift <br>&emsp;+ Amazon ElastiCache | 13/07/2026 | 13/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 3 | - Complete Module 06 hands-on labs <br>&emsp;+ Create an Amazon RDS database <br>&emsp;+ Connect to the database <br>&emsp;+ Back up and restore data <br>&emsp;+ Practice basic SQL queries | 14/07/2026 | 14/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 4 | - Practice Database Migration <br>&emsp;+ AWS Database Migration Service (AWS DMS) <br>&emsp;+ AWS Schema Conversion Tool (AWS SCT) <br> - Design the overall system architecture (System Architecture Diagram) | 15/07/2026 | 15/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 5 | - Design RESTful APIs <br>&emsp;+ User Authentication API <br>&emsp;+ Book Management API <br>&emsp;+ Reader Management API <br>&emsp;+ Book Borrowing and Returning API | 16/07/2026 | 16/07/2026 | Team Discussion |
+| 6 | - Discuss and finalize the technology stack <br>&emsp;+ Backend Framework <br>&emsp;+ Database <br>&emsp;+ Docker <br>&emsp;+ AWS Services <br> - Assign tasks to each team member and prepare for the first development sprint | 17/07/2026 | 17/07/2026 | Team Discussion |
 
 ### Week 6 Achievements:
 

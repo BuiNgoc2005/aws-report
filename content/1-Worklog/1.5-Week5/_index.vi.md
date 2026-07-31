@@ -17,11 +17,11 @@ pre: " <b> 1.5. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Học Module 05: Security, Identity & Compliance <br>&emsp;+ IAM nâng cao <br>&emsp;+ AWS Organizations <br>&emsp;+ AWS KMS <br>&emsp;+ AWS Security Hub | 13/07/2026 | 13/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Thực hành Module 05 <br>&emsp;+ Kích hoạt Security Hub <br>&emsp;+ Tạo IAM Policy <br>&emsp;+ Switch Role <br>&emsp;+ Quản lý Resource Tags | 14/07/2026 | 14/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Phân tích dữ liệu của hệ thống <br>&emsp;+ Xác định các Entity <br>&emsp;+ Thuộc tính của từng Entity <br>&emsp;+ Quan hệ giữa các bảng dữ liệu | 15/07/2026 | 15/07/2026 | Team Discussion |
-| 5 | - Thiết kế Entity Relationship Diagram (ERD) <br>&emsp;+ Xác định Primary Key và Foreign Key <br>&emsp;+ Chuẩn hóa dữ liệu <br>&emsp;+ Hoàn thiện sơ đồ ERD bằng Draw.io | 16/07/2026 | 16/07/2026 | Team Discussion |
-| 6 | - Review ERD cùng các thành viên <br>- Điều chỉnh mô hình dữ liệu theo góp ý <br>- Hoàn thiện Database Schema phục vụ giai đoạn phát triển hệ thống | 17/07/2026 | 17/07/2026 | Team Discussion |
+| 2 | - Học Module 05: Security, Identity & Compliance <br>&emsp;+ IAM nâng cao <br>&emsp;+ AWS Organizations <br>&emsp;+ AWS KMS <br>&emsp;+ AWS Security Hub | 06/07/2026 | 06/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 3 | - Thực hành Module 05 <br>&emsp;+ Kích hoạt Security Hub <br>&emsp;+ Tạo IAM Policy <br>&emsp;+ Switch Role <br>&emsp;+ Quản lý Resource Tags | 07/07/2026 | 07/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 4 | - Phân tích dữ liệu của hệ thống <br>&emsp;+ Xác định các Entity <br>&emsp;+ Thuộc tính của từng Entity <br>&emsp;+ Quan hệ giữa các bảng dữ liệu | 08/07/2026 | 08/07/2026 | Team Discussion |
+| 5 | - Thiết kế Entity Relationship Diagram (ERD) <br>&emsp;+ Xác định Primary Key và Foreign Key <br>&emsp;+ Chuẩn hóa dữ liệu <br>&emsp;+ Hoàn thiện sơ đồ ERD bằng Draw.io | 09/07/2026 | 09/07/2026 | Team Discussion |
+| 6 | - Review ERD cùng các thành viên <br>- Điều chỉnh mô hình dữ liệu theo góp ý <br>- Hoàn thiện Database Schema phục vụ giai đoạn phát triển hệ thống | 10/07/2026 | 10/07/2026 | Team Discussion |
 
 ### Kết quả đạt được tuần 5:
 

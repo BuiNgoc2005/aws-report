@@ -17,11 +17,11 @@ pre: " <b> 1.1. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Tham gia buổi giới thiệu chương trình First Cloud AI Journey <br> - Làm quen với các thành viên và quy trình thực tập <br> - Tìm hiểu lộ trình học tập và các yêu cầu của chương trình | 15/06/2026 | 15/06/2026 | First Cloud AI Journey |
-| 3 | - Học Module 01: Tổng quan về Điện toán đám mây và AWS <br>&emsp;+ Cloud Computing <br>&emsp;+ AWS Global Infrastructure <br>&emsp;+ Các nhóm dịch vụ AWS <br>&emsp;+ AWS Management Console | 16/06/2026 | 16/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Thực hành Module 01: <br>&emsp;+ Tạo tài khoản AWS <br>&emsp;+ Thiết lập Virtual MFA <br>&emsp;+ Tạo IAM User và IAM Group quản trị <br>&emsp;+ Tìm hiểu cách quản lý tài khoản AWS | 17/06/2026 | 17/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 5 | - Thực hành AWS Budgets và AWS Support <br>&emsp;+ Tạo Cost Budget <br>&emsp;+ Tìm hiểu Usage Budget và AWS Support Plans <br> - Họp nhóm lần đầu để trao đổi định hướng và đề xuất các ý tưởng cho dự án | 18/06/2026 | 18/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 6 | - Thảo luận các ý tưởng dự án <br>&emsp;+ Website Quản lý thư viện <br>&emsp;+ Website Quản lý phòng khám <br>&emsp;+ Website Quản lý bán hàng <br> - Đánh giá tính khả thi của từng đề tài và phân công tìm hiểu để chuẩn bị Proposal trong tuần tiếp theo | 19/06/2026 | 19/06/2026 | Meeting |
+| 2 | - Tham gia buổi giới thiệu chương trình First Cloud AI Journey <br> - Làm quen với các thành viên và quy trình thực tập <br> - Tìm hiểu lộ trình học tập và các yêu cầu của chương trình | 08/06/2026 | 08/06/2026 | First Cloud AI Journey |
+| 3 | - Học Module 01: Tổng quan về Điện toán đám mây và AWS <br>&emsp;+ Cloud Computing <br>&emsp;+ AWS Global Infrastructure <br>&emsp;+ Các nhóm dịch vụ AWS <br>&emsp;+ AWS Management Console | 09/06/2026 | 09/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 4 | - Thực hành Module 01: <br>&emsp;+ Tạo tài khoản AWS <br>&emsp;+ Thiết lập Virtual MFA <br>&emsp;+ Tạo IAM User và IAM Group quản trị <br>&emsp;+ Tìm hiểu cách quản lý tài khoản AWS | 10/06/2026 | 10/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 5 | - Thực hành AWS Budgets và AWS Support <br>&emsp;+ Tạo Cost Budget <br>&emsp;+ Tìm hiểu Usage Budget và AWS Support Plans <br> - Họp nhóm lần đầu để trao đổi định hướng và đề xuất các ý tưởng cho dự án | 11/06/2026 | 11/06/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 6 | - Thảo luận các ý tưởng dự án <br>&emsp;+ Website Quản lý thư viện <br>&emsp;+ Website Quản lý phòng khám <br>&emsp;+ Website Quản lý bán hàng <br> - Đánh giá tính khả thi của từng đề tài và phân công tìm hiểu để chuẩn bị Proposal trong tuần tiếp theo | 12/06/2026 | 12/06/2026 | Meeting |
 
 ### Kết quả đạt được tuần 1:
 

@@ -18,11 +18,11 @@ pre: " <b> 1.7. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Khởi tạo GitHub Repository <br>&emsp;+ Tạo cấu trúc dự án <br>&emsp;+ Thiết lập nhánh phát triển <br>&emsp;+ Phân chia nhiệm vụ cho các thành viên | 27/07/2026 | 27/07/2026 | Team Discussion |
-| 3 | - Thiết lập môi trường phát triển <br>&emsp;+ Cấu hình Docker và Docker Compose <br>&emsp;+ Khởi tạo cơ sở dữ liệu <br>&emsp;+ Kết nối Backend với Database | 28/07/2026 | 28/07/2026 | Team Discussion |
-| 4 | - Phát triển chức năng quản lý sách <br>&emsp;+ CRUD Book <br>&emsp;+ CRUD Category <br>&emsp;+ Kiểm thử các API cơ bản | 29/07/2026 | 29/07/2026 | Team Discussion |
-| 5 | - Phát triển chức năng quản lý độc giả <br>&emsp;+ CRUD Reader <br>&emsp;+ Quản lý tài khoản người dùng <br>&emsp;+ Kiểm thử tích hợp | 30/07/2026 | 30/07/2026 | Team Discussion |
-| 6 | - Họp nhóm đánh giá Sprint 1 <br>- Review tiến độ triển khai <br>- Sửa các lỗi phát sinh và cập nhật kế hoạch phát triển cho tuần tiếp theo | 31/07/2026 | 31/07/2026 | Team Discussion |
+| 2 | - Khởi tạo GitHub Repository <br>&emsp;+ Tạo cấu trúc dự án <br>&emsp;+ Thiết lập nhánh phát triển <br>&emsp;+ Phân chia nhiệm vụ cho các thành viên | 20/07/2026 | 20/07/2026 | Team Discussion |
+| 3 | - Thiết lập môi trường phát triển <br>&emsp;+ Cấu hình Docker và Docker Compose <br>&emsp;+ Khởi tạo cơ sở dữ liệu <br>&emsp;+ Kết nối Backend với Database | 21/07/2026 | 21/07/2026 | Team Discussion |
+| 4 | - Phát triển chức năng quản lý sách <br>&emsp;+ CRUD Book <br>&emsp;+ CRUD Category <br>&emsp;+ Kiểm thử các API cơ bản | 22/07/2026 | 22/07/2026 | Team Discussion |
+| 5 | - Phát triển chức năng quản lý độc giả <br>&emsp;+ CRUD Reader <br>&emsp;+ Quản lý tài khoản người dùng <br>&emsp;+ Kiểm thử tích hợp | 23/07/2026 | 23/07/2026 | Team Discussion |
+| 6 | - Họp nhóm đánh giá Sprint 1 <br>- Review tiến độ triển khai <br>- Sửa các lỗi phát sinh và cập nhật kế hoạch phát triển cho tuần tiếp theo | 24/07/2026 | 24/07/2026 | Team Discussion |
 
 ### Kết quả đạt được tuần 7:
 

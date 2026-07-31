@@ -17,11 +17,11 @@ pre: " <b> 1.5. </b> "
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Study Module 05: Security, Identity & Compliance <br>&emsp;+ Advanced IAM <br>&emsp;+ AWS Organizations <br>&emsp;+ AWS KMS <br>&emsp;+ AWS Security Hub | 13/07/2026 | 13/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 3 | - Complete Module 05 hands-on labs <br>&emsp;+ Enable AWS Security Hub <br>&emsp;+ Create IAM Policies <br>&emsp;+ Switch Roles <br>&emsp;+ Manage Resource Tags | 14/07/2026 | 14/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Analyze the system data <br>&emsp;+ Identify the Entities <br>&emsp;+ Define the attributes of each Entity <br>&emsp;+ Identify relationships between database tables | 15/07/2026 | 15/07/2026 | Team Discussion |
-| 5 | - Design the Entity Relationship Diagram (ERD) <br>&emsp;+ Define Primary Keys and Foreign Keys <br>&emsp;+ Normalize the database <br>&emsp;+ Finalize the ERD using Draw.io | 16/07/2026 | 16/07/2026 | Team Discussion |
-| 6 | - Review the ERD with team members <br> - Refine the data model based on feedback <br> - Finalize the Database Schema for the system development phase | 17/07/2026 | 17/07/2026 | Team Discussion |
+| 2 | - Study Module 05: Security, Identity & Compliance <br>&emsp;+ Advanced IAM <br>&emsp;+ AWS Organizations <br>&emsp;+ AWS KMS <br>&emsp;+ AWS Security Hub | 06/07/2026 | 06/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 3 | - Complete Module 05 hands-on labs <br>&emsp;+ Enable AWS Security Hub <br>&emsp;+ Create IAM Policies <br>&emsp;+ Switch Roles <br>&emsp;+ Manage Resource Tags | 07/07/2026 | 07/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 4 | - Analyze the system data <br>&emsp;+ Identify the Entities <br>&emsp;+ Define the attributes of each Entity <br>&emsp;+ Identify relationships between database tables | 08/07/2026 | 08/07/2026 | Team Discussion |
+| 5 | - Design the Entity Relationship Diagram (ERD) <br>&emsp;+ Define Primary Keys and Foreign Keys <br>&emsp;+ Normalize the database <br>&emsp;+ Finalize the ERD using Draw.io | 09/07/2026 | 09/07/2026 | Team Discussion |
+| 6 | - Review the ERD with team members <br> - Refine the data model based on feedback <br> - Finalize the Database Schema for the system development phase | 10/07/2026 | 10/07/2026 | Team Discussion |
 
 ### Week 5 Achievements:
 

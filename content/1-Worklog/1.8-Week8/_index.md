@@ -8,35 +8,46 @@ pre: " <b> 1.8. </b> "
 
 ### Week 8 Objectives:
 
-* Complete the core functionalities of the Library Management System.
-* Integrate the system components and perform functional testing.
-* Deploy a trial version of the application on AWS.
-* Prepare for the project acceptance and finalization phase.
+* Complete the entire Library Management System.
+* Test, debug, and optimize the application.
+* Deploy the system on AWS and evaluate the deployment results.
+* Finalize the project documentation, internship report, and prepare the project demonstration.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Complete the Book Borrowing and Returning module <br>&emsp;+ Create borrowing records <br>&emsp;+ Process book returns <br>&emsp;+ Check book availability <br>&emsp;+ Record transaction history | 03/08/2026 | 03/08/2026 | Team Discussion |
-| 3 | - Complete the authentication and authorization module <br>&emsp;+ User login <br>&emsp;+ User authorization <br>&emsp;+ Verify access permissions for system functionalities | 04/08/2026 | 04/08/2026 | Team Discussion |
-| 4 | - Integrate the backend with the database <br>&emsp;+ Test the APIs <br>&emsp;+ Verify data flow between system modules <br>&emsp;+ Resolve integration issues | 05/08/2026 | 05/08/2026 | Team Discussion |
-| 5 | - Deploy a trial version of the system on AWS <br>&emsp;+ Prepare the Amazon EC2 environment <br>&emsp;+ Configure Docker and Docker Compose <br>&emsp;+ Verify system accessibility | 06/08/2026 | 06/08/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 6 | - Perform end-to-end system testing <br> - Hold the Sprint 2 review meeting <br> - Summarize the remaining issues and prepare a plan for final improvements in the last week | 07/08/2026 | 07/08/2026 | Team Discussion |
+| 2 | - Complete the Book Borrowing and Returning module <br>&emsp;+ Create borrowing records <br>&emsp;+ Process book returns <br>&emsp;+ Check book availability <br>&emsp;+ Record transaction history <br> - Test the core functionalities of the system | 03/08/2026 | 03/08/2026 | Team Discussion |
+| 3 | - Complete the authentication and authorization module <br>&emsp;+ User login <br>&emsp;+ User authorization <br>&emsp;+ Verify access permissions <br> - Fix issues identified during testing | 04/08/2026 | 04/08/2026 | Team Discussion |
+| 4 | - Integrate the backend with PostgreSQL <br>&emsp;+ Test the APIs <br>&emsp;+ Verify data flow <br>&emsp;+ Optimize database queries and system performance | 05/08/2026 | 05/08/2026 | Team Discussion |
+| 5 | - Deploy the system on AWS <br>&emsp;+ Configure Amazon EC2 <br>&emsp;+ Deploy Docker and Docker Compose <br>&emsp;+ Verify system accessibility and operation | 06/08/2026 | 06/08/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 6 | - Finalize the project documentation <br>&emsp;+ README <br>&emsp;+ API Documentation <br>&emsp;+ Use Case Diagram <br>&emsp;+ ERD <br>&emsp;+ System Architecture Diagram <br> - Prepare the project demonstration <br> - Complete the internship report and summarize the program | 07/08/2026 | 07/08/2026 | Team Discussion |
 
 ### Week 8 Achievements:
 
-* Completed the core business functionalities of the system:
+* Completed all core functionalities of the system:
+  * User Management
   * Book Management
+  * Author Management
+  * Category Management
+  * Publisher Management
   * Reader Management
-  * Book Borrowing and Returning
-  * User Authentication and Authorization
+  * Book Borrowing and Returning Management
+  * User Authorization
 
-* Successfully integrated the backend with the database and tested the core APIs.
+* Successfully integrated the Django application with the PostgreSQL database and completed testing of the core system functionalities.
 
-* Successfully deployed a trial version of the application on AWS using Amazon EC2 and Docker.
+* Successfully deployed the system on AWS using Amazon EC2 and Docker, ensuring that the application operated reliably in the cloud environment.
 
-* Identified and resolved integration issues, ensuring that the system functionalities operated reliably.
+* Identified and resolved issues during testing while optimizing system performance and improving the user experience.
 
-* Completed the second development sprint and identified the areas requiring optimization before the project acceptance phase.
+* Completed all project documentation, including:
+  * Proposal
+  * Use Case Diagram
+  * Entity Relationship Diagram (ERD)
+  * System Architecture Diagram
+  * README with installation and usage instructions
 
-* Prepared the necessary documentation and deployment environment for the final testing phase and completion of the internship report.
+* Prepared the complete source code, documentation, and demonstration materials for the internship presentation.
+
+* Completed the internship report, summarizing the knowledge and skills gained throughout the First Cloud AI Journey program, while incorporating feedback to finalize the final version of the project.
